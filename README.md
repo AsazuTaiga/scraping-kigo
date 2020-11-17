@@ -56,6 +56,9 @@
 - Chrome
 - ChromeDriver(binをプロジェクトのルートディレクトリに配置)
 
+なお、基本的に手元で実行する必要はないと思われます。
+resultJson配下に実行結果を格納してあります。
+
 ## :checkered_flag: Starting ##
 
 ```bash
