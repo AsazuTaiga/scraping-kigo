@@ -70,8 +70,6 @@ $ npm i
 
 # Run the project
 $ npm run start
-
-# The server will initialize in the <http://localhost:3000>
 ```
 
 ## :memo: License ##
