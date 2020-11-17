@@ -40,7 +40,7 @@
 
 ## :dart: About ##
 
-現代俳句教会が提供する[「現代俳句データベース」](http://www.haiku-data.jp/index.php)から季語データをスクレイピングしてみました。
+現代俳句協会が提供する[「現代俳句データベース」](http://www.haiku-data.jp/index.php)から季語データをスクレイピングしてみました。
 
 ## :rocket: Technologies ##
 
