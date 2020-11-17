@@ -1,0 +1,7426 @@
+[
+	{
+		"kigo": "アイスコーヒー",
+		"yomigana": "あいすこーひー",
+		"kyukana": "",
+		"bodai": [
+			"アイスティー",
+			"冷しコーヒー",
+			"冷し紅茶"
+		]
+	},
+	{
+		"kigo": "愛鳥週間",
+		"yomigana": "あいちょうしゅうかん",
+		"kyukana": "あいてうしうかん",
+		"bodai": [
+			"バードウィーク",
+			"バードデー",
+			"鳥の日"
+		]
+	},
+	{
+		"kigo": "青蘆",
+		"yomigana": "あおあし",
+		"kyukana": "あをあし",
+		"bodai": [
+			"青葦",
+			"蘆茂る"
+		]
+	},
+	{
+		"kigo": "青嵐",
+		"yomigana": "あおあらし",
+		"kyukana": "あをあらし",
+		"bodai": [
+			"風青し",
+			"夏嵐"
+		]
+	},
+	{
+		"kigo": "葵",
+		"yomigana": "あおい",
+		"kyukana": "あふひ",
+		"bodai": [
+			"花葵",
+			"銭葵",
+			"蜀葵（からあおい）",
+			"立葵"
+		]
+	},
+	{
+		"kigo": "葵祭",
+		"yomigana": "あおいまつり",
+		"kyukana": "あふひまつり",
+		"bodai": [
+			"賀茂祭",
+			"北祭",
+			"賀茂葵",
+			"懸葵"
+		]
+	},
+	{
+		"kigo": "青梅",
+		"yomigana": "あおうめ",
+		"kyukana": "あをうめ",
+		"bodai": [
+			"梅の実",
+			"実梅",
+			"小梅"
+		]
+	},
+	{
+		"kigo": "青柿",
+		"yomigana": "あおがき",
+		"kyukana": "あをがき",
+		"bodai": [
+			"柿青し"
+		]
+	},
+	{
+		"kigo": "梧桐",
+		"yomigana": "あおぎり",
+		"kyukana": "あをぎり",
+		"bodai": [
+			"梧桐（ごとう）"
+		]
+	},
+	{
+		"kigo": "青胡桃",
+		"yomigana": "あおくるみ",
+		"kyukana": "",
+		"bodai": [
+			"生胡桃"
+		]
+	},
+	{
+		"kigo": "青鷺",
+		"yomigana": "あおさぎ",
+		"kyukana": "あをさぎ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青山河",
+		"yomigana": "あおさんが",
+		"kyukana": "あをさんが",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青山椒",
+		"yomigana": "あおさんしょう",
+		"kyukana": "あをさんせう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青芝",
+		"yomigana": "あおしば",
+		"kyukana": "",
+		"bodai": [
+			"夏芝"
+		]
+	},
+	{
+		"kigo": "青芒",
+		"yomigana": "あおすすき",
+		"kyukana": "あをすすき",
+		"bodai": [
+			"芒茂る"
+		]
+	},
+	{
+		"kigo": "青簾",
+		"yomigana": "あおすだれ",
+		"kyukana": "",
+		"bodai": [
+			"簾",
+			"竹簾",
+			"葭簾",
+			"伊予簾",
+			"絵簾",
+			"板簾",
+			"古簾"
+		]
+	},
+	{
+		"kigo": "青田",
+		"yomigana": "あおた",
+		"kyukana": "あをた",
+		"bodai": [
+			"青田風",
+			"青田波",
+			"青田道"
+		]
+	},
+	{
+		"kigo": "青竹",
+		"yomigana": "あおたけ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青畳",
+		"yomigana": "あおだたみ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青蔦",
+		"yomigana": "あおつた",
+		"kyukana": "あをつた",
+		"bodai": [
+			"蔦茂る"
+		]
+	},
+	{
+		"kigo": "青唐辛子",
+		"yomigana": "あおとうがらし",
+		"kyukana": "あおたうがらし",
+		"bodai": [
+			"青唐辛",
+			"青蕃椒",
+			"葉唐辛子"
+		]
+	},
+	{
+		"kigo": "青野",
+		"yomigana": "あおの",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青葉",
+		"yomigana": "あおば",
+		"kyukana": "",
+		"bodai": [
+			"青葉山",
+			"青葉風",
+			"青葉時雨",
+			"青時雨",
+			"青葉雨"
+		]
+	},
+	{
+		"kigo": "青葉木菟",
+		"yomigana": "あおばずく",
+		"kyukana": "あをばづく",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青葡萄",
+		"yomigana": "あおぶどう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青鬼灯",
+		"yomigana": "あおほほづき",
+		"kyukana": "あをほほづき",
+		"bodai": [
+			"青酸漿"
+		]
+	},
+	{
+		"kigo": "青みどろ",
+		"yomigana": "あおみどろ",
+		"kyukana": "あをみどろ",
+		"bodai": [
+			"青味泥（あおみどろ）"
+		]
+	},
+	{
+		"kigo": "青桃",
+		"yomigana": "あおもも",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "青林檎",
+		"yomigana": "あおりんご",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "赤鱏",
+		"yomigana": "あかえい",
+		"kyukana": "あかえひ",
+		"bodai": [
+			"えひ",
+			"えひ"
+		]
+	},
+	{
+		"kigo": "藜",
+		"yomigana": "あかざ",
+		"kyukana": "",
+		"bodai": [
+			"しろざ"
+		]
+	},
+	{
+		"kigo": "アカシアの花",
+		"yomigana": "あかしあのはな",
+		"kyukana": "",
+		"bodai": [
+			"ニセアカシアの花",
+			"針槐の花"
+		]
+	},
+	{
+		"kigo": "秋近し",
+		"yomigana": "あきちかし",
+		"kyukana": "",
+		"bodai": [
+			"秋を待つ",
+			"秋隣"
+		]
+	},
+	{
+		"kigo": "麻",
+		"yomigana": "あさ",
+		"kyukana": "",
+		"bodai": [
+			"大麻",
+			"麻の葉",
+			"麻刈",
+			"麻引",
+			"麻の花",
+			"麻畠"
+		]
+	},
+	{
+		"kigo": "朝顔",
+		"yomigana": "あさがお",
+		"kyukana": "あさがほ",
+		"bodai": [
+			"牽牛花",
+			"蕣（あさがお）",
+			"朝顔の実",
+			"種朝顔"
+		]
+	},
+	{
+		"kigo": "朝顔市",
+		"yomigana": "あさがおいち",
+		"kyukana": "あさがほいち",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "朝曇",
+		"yomigana": "あさぐもり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "朝凪",
+		"yomigana": "あさなぎ",
+		"kyukana": "",
+		"bodai": [
+			"朝凪ぐ"
+		]
+	},
+	{
+		"kigo": "朝焼",
+		"yomigana": "あさやけ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鯵",
+		"yomigana": "あじ",
+		"kyukana": "あぢ",
+		"bodai": [
+			"真鯵",
+			"室鯵",
+			"夕鯵",
+			"鯵売"
+		]
+	},
+	{
+		"kigo": "紫陽花",
+		"yomigana": "あじさい",
+		"kyukana": "",
+		"bodai": [
+			"四葩（よひら）",
+			"七変化（しちへんげ）"
+		]
+	},
+	{
+		"kigo": "鯵刺",
+		"yomigana": "あじさし",
+		"kyukana": "あぢさし",
+		"bodai": [
+			"鮎刺",
+			"鮎鷹"
+		]
+	},
+	{
+		"kigo": "東踊",
+		"yomigana": "あずまおどり",
+		"kyukana": "あづまをどり",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "汗",
+		"yomigana": "あせ",
+		"kyukana": "",
+		"bodai": [
+			"汗ばむ",
+			"玉の汗",
+			"汗疹",
+			"汗水",
+			"汗みどろ"
+		]
+	},
+	{
+		"kigo": "汗拭ひ",
+		"yomigana": "あせぬぐい",
+		"kyukana": "あせぬぐひ",
+		"bodai": [
+			"ハンカチーフ",
+			"ハンカチ",
+			"汗ふき",
+			"汗手拭"
+		]
+	},
+	{
+		"kigo": "汗疹",
+		"yomigana": "あせも",
+		"kyukana": "",
+		"bodai": [
+			"あせぼ"
+		]
+	},
+	{
+		"kigo": "暑し",
+		"yomigana": "あつし",
+		"kyukana": "",
+		"bodai": [
+			"暑さ",
+			"暑",
+			"暑気",
+			"炎暑",
+			"炎ゆ",
+			"熱帯夜"
+		]
+	},
+	{
+		"kigo": "穴子",
+		"yomigana": "あなご",
+		"kyukana": "",
+		"bodai": [
+			"海鰻",
+			"うみうなぎ"
+		]
+	},
+	{
+		"kigo": "油照",
+		"yomigana": "あぶらでり",
+		"kyukana": "",
+		"bodai": [
+			"脂照"
+		]
+	},
+	{
+		"kigo": "雨蛙",
+		"yomigana": "あまがえる",
+		"kyukana": "あまがへる",
+		"bodai": [
+			"枝蛙",
+			"青蛙",
+			"夏蛙"
+		]
+	},
+	{
+		"kigo": "雨乞",
+		"yomigana": "あまごい",
+		"kyukana": "あまごひ",
+		"bodai": [
+			"祈雨",
+			"雨の祈"
+		]
+	},
+	{
+		"kigo": "甘酒",
+		"yomigana": "あまざけ",
+		"kyukana": "",
+		"bodai": [
+			"一夜酒"
+		]
+	},
+	{
+		"kigo": "アマリリス",
+		"yomigana": "あまりりす",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "網戸",
+		"yomigana": "あみど",
+		"kyukana": "",
+		"bodai": [
+			"網障子"
+		]
+	},
+	{
+		"kigo": "飴湯",
+		"yomigana": "あめゆ",
+		"kyukana": "",
+		"bodai": [
+			"冷し飴"
+		]
+	},
+	{
+		"kigo": "水馬",
+		"yomigana": "あめんぼう",
+		"kyukana": "あめんばう",
+		"bodai": [
+			"あめんぼ",
+			"みずすまし",
+			"水蜘蛛"
+		]
+	},
+	{
+		"kigo": "あやめ",
+		"yomigana": "あやめ",
+		"kyukana": "",
+		"bodai": [
+			"渓孫",
+			"花あやめ"
+		]
+	},
+	{
+		"kigo": "鮎",
+		"yomigana": "あゆ",
+		"kyukana": "",
+		"bodai": [
+			"香魚",
+			"年魚",
+			"鮎の宿"
+		]
+	},
+	{
+		"kigo": "鮎釣",
+		"yomigana": "あゆつり",
+		"kyukana": "",
+		"bodai": [
+			"鮎漁",
+			"囮鮎",
+			"鮎釣解禁",
+			"川明",
+			"鮎狩"
+		]
+	},
+	{
+		"kigo": "洗膾",
+		"yomigana": "あらひ",
+		"kyukana": "",
+		"bodai": [
+			"洗鯉",
+			"洗鱸",
+			"洗鯛",
+			"生作り"
+		]
+	},
+	{
+		"kigo": "荒布",
+		"yomigana": "あらめ",
+		"kyukana": "",
+		"bodai": [
+			"黒菜",
+			"荒布刈る",
+			"荒布干す"
+		]
+	},
+	{
+		"kigo": "蟻",
+		"yomigana": "あり",
+		"kyukana": "",
+		"bodai": [
+			"山蟻",
+			"蟻の道",
+			"蟻の塔",
+			"蟻塚",
+			"蟻の列",
+			"蟻の門渡り"
+		]
+	},
+	{
+		"kigo": "蟻地獄",
+		"yomigana": "ありじごく",
+		"kyukana": "ありぢごく",
+		"bodai": [
+			"あとすざり",
+			"擂鉢虫",
+			"あとさり虫"
+		]
+	},
+	{
+		"kigo": "袷",
+		"yomigana": "あわせ",
+		"kyukana": "あはせ",
+		"bodai": [
+			"素袷",
+			"初袷",
+			"綿抜",
+			"古袷"
+		]
+	},
+	{
+		"kigo": "鮑",
+		"yomigana": "あわび",
+		"kyukana": "あはび",
+		"bodai": [
+			"鮑取",
+			"鮑海女"
+		]
+	},
+	{
+		"kigo": "安居",
+		"yomigana": "あんご",
+		"kyukana": "",
+		"bodai": [
+			"夏安居",
+			"雨安居",
+			"夏げ",
+			"一夏",
+			"夏行",
+			"夏籠",
+			"夏断",
+			"夏入",
+			"結夏",
+			"解夏",
+			"夏百合",
+			"夏書",
+			"夏花"
+		]
+	},
+	{
+		"kigo": "杏",
+		"yomigana": "あんず",
+		"kyukana": "",
+		"bodai": [
+			"杏子",
+			"からもも",
+			"杏の実"
+		]
+	},
+	{
+		"kigo": "誘蛾燈",
+		"yomigana": "いうがとう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "烏賊釣",
+		"yomigana": "いかつり",
+		"kyukana": "",
+		"bodai": [
+			"烏賊釣火",
+			"烏賊火",
+			"烏賊釣舟"
+		]
+	},
+	{
+		"kigo": "藺刈",
+		"yomigana": "いかり",
+		"kyukana": "ゐかり",
+		"bodai": [
+			"藺草刈",
+			"藺干す",
+			"藺車"
+		]
+	},
+	{
+		"kigo": "泉",
+		"yomigana": "いずみ",
+		"kyukana": "いづみ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "虎杖の花",
+		"yomigana": "いたどりのはな",
+		"kyukana": "",
+		"bodai": [
+			"紅虎杖"
+		]
+	},
+	{
+		"kigo": "苺",
+		"yomigana": "いちご",
+		"kyukana": "",
+		"bodai": [
+			"覆盆子",
+			"苺摘み",
+			"苺畑",
+			"草苺"
+		]
+	},
+	{
+		"kigo": "鳶尾草",
+		"yomigana": "いちはつ",
+		"kyukana": "",
+		"bodai": [
+			"一八",
+			"紫羅傘（いちはつ）"
+		]
+	},
+	{
+		"kigo": "厳島管絃祭",
+		"yomigana": "いつくしまかんげんさい",
+		"kyukana": "いつくしまくわんげんさい",
+		"bodai": [
+			"厳島祭"
+		]
+	},
+	{
+		"kigo": "糸取",
+		"yomigana": "いととり",
+		"kyukana": "",
+		"bodai": [
+			"糸引",
+			"糸取鍋",
+			"糸取女",
+			"糸取歌"
+		]
+	},
+	{
+		"kigo": "糸蜻蛉",
+		"yomigana": "いととんぼ",
+		"kyukana": "",
+		"bodai": [
+			"燈心蜻蛉",
+			"とうずみ蜻蛉",
+			"とうすみ"
+		]
+	},
+	{
+		"kigo": "糸みみず",
+		"yomigana": "いとみみず",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "藺の花",
+		"yomigana": "いのはな",
+		"kyukana": "ゐのはな",
+		"bodai": [
+			"藺草",
+			"燈心草",
+			"燈心草の花",
+			"藺田"
+		]
+	},
+	{
+		"kigo": "ゐもり",
+		"yomigana": "いもり",
+		"kyukana": "ゐもり",
+		"bodai": [
+			"井守",
+			"赤腹"
+		]
+	},
+	{
+		"kigo": "岩魚",
+		"yomigana": "いわな",
+		"kyukana": "いはな",
+		"bodai": [
+			"嘉魚",
+			"巌魚",
+			"岩魚釣"
+		]
+	},
+	{
+		"kigo": "鵜",
+		"yomigana": "う",
+		"kyukana": "",
+		"bodai": [
+			"海鵜",
+			"河鵜"
+		]
+	},
+	{
+		"kigo": "茴香の花",
+		"yomigana": "ういきょうのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "植田",
+		"yomigana": "うえだ",
+		"kyukana": "うゑだ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鵜飼",
+		"yomigana": "うかい",
+		"kyukana": "うかひ",
+		"bodai": [
+			"徒歩鵜",
+			"鵜匠",
+			"鵜遣",
+			"鵜縄",
+			"荒鵜",
+			"疲れ鵜",
+			"鵜籠",
+			"鵜舟",
+			"鵜篝"
+		]
+	},
+	{
+		"kigo": "萍",
+		"yomigana": "うきくさ",
+		"kyukana": "",
+		"bodai": [
+			"浮草",
+			"根無草",
+			"萍の花"
+		]
+	},
+	{
+		"kigo": "浮巣",
+		"yomigana": "うきす",
+		"kyukana": "",
+		"bodai": [
+			"鳰の浮巣",
+			"鳰の巣"
+		]
+	},
+	{
+		"kigo": "浮人形",
+		"yomigana": "うきにんぎょう",
+		"kyukana": "うきにんぎやう",
+		"bodai": [
+			"浮いて来い"
+		]
+	},
+	{
+		"kigo": "薄翅蜉蝣",
+		"yomigana": "うすばかげろう",
+		"kyukana": "うすばかげろふ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "羅",
+		"yomigana": "うすもの",
+		"kyukana": "",
+		"bodai": [
+			"絽",
+			"紗",
+			"軽羅",
+			"薄衣"
+		]
+	},
+	{
+		"kigo": "打水",
+		"yomigana": "うちみず",
+		"kyukana": "うちみづ",
+		"bodai": [
+			"水を打つ",
+			"水撒き"
+		]
+	},
+	{
+		"kigo": "団扇",
+		"yomigana": "うちわ",
+		"kyukana": "うちは",
+		"bodai": [
+			"白団扇",
+			"絵団扇",
+			"渋団扇",
+			"古団扇",
+			"団扇掛"
+		]
+	},
+	{
+		"kigo": "空蟬",
+		"yomigana": "うつせみ",
+		"kyukana": "",
+		"bodai": [
+			"蟬の殻",
+			"蟬の脱殻"
+		]
+	},
+	{
+		"kigo": "靭草",
+		"yomigana": "うつぼぐさ",
+		"kyukana": "",
+		"bodai": [
+			"空穂草",
+			"夏枯草"
+		]
+	},
+	{
+		"kigo": "卯月",
+		"yomigana": "うづき",
+		"kyukana": "",
+		"bodai": [
+			"卯の花月"
+		]
+	},
+	{
+		"kigo": "独活の花",
+		"yomigana": "うどのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "優曇華",
+		"yomigana": "うどんげ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鰻",
+		"yomigana": "うなぎ",
+		"kyukana": "",
+		"bodai": [
+			"鰻"
+		]
+	},
+	{
+		"kigo": "卯波",
+		"yomigana": "うなみ",
+		"kyukana": "",
+		"bodai": [
+			"皐月波"
+		]
+	},
+	{
+		"kigo": "卯の花",
+		"yomigana": "うのはな",
+		"kyukana": "",
+		"bodai": [
+			"空木の花",
+			"花うつぎ",
+			"姫うつぎ",
+			"山卯木",
+			"卯の花垣"
+		]
+	},
+	{
+		"kigo": "卯の花腐し",
+		"yomigana": "うのはなくたし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "海亀",
+		"yomigana": "うみがめ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "海猫",
+		"yomigana": "うみねこ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "海の日",
+		"yomigana": "うみのひ",
+		"kyukana": "",
+		"bodai": [
+			"海の記念日"
+		]
+	},
+	{
+		"kigo": "海開き",
+		"yomigana": "うみびらき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "海酸漿",
+		"yomigana": "うみほおずき",
+		"kyukana": "うみほほづき",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "梅酒",
+		"yomigana": "うめしゅ",
+		"kyukana": "うめしゆ",
+		"bodai": [
+			"梅酒",
+			"梅焼酎"
+		]
+	},
+	{
+		"kigo": "梅干",
+		"yomigana": "うめぼし",
+		"kyukana": "",
+		"bodai": [
+			"梅干す",
+			"梅漬",
+			"夜干の梅",
+			"干梅",
+			"梅筵",
+			"梅酢"
+		]
+	},
+	{
+		"kigo": "瓜",
+		"yomigana": "うり",
+		"kyukana": "",
+		"bodai": [
+			"初瓜",
+			"瓜作り",
+			"瓜畑"
+		]
+	},
+	{
+		"kigo": "瓜の花",
+		"yomigana": "うりのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "瓜番",
+		"yomigana": "うりばん",
+		"kyukana": "",
+		"bodai": [
+			"瓜守",
+			"瓜小屋",
+			"瓜番小屋"
+		]
+	},
+	{
+		"kigo": "瓜揉み",
+		"yomigana": "うりもみ",
+		"kyukana": "",
+		"bodai": [
+			"瓜揉む",
+			"揉瓜",
+			"胡瓜揉み"
+		]
+	},
+	{
+		"kigo": "漆掻",
+		"yomigana": "うるしかき",
+		"kyukana": "",
+		"bodai": [
+			"漆取る"
+		]
+	},
+	{
+		"kigo": "雲海",
+		"yomigana": "うんかい",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "えごの花",
+		"yomigana": "えごのはな",
+		"kyukana": "",
+		"bodai": [
+			"山苣の花"
+		]
+	},
+	{
+		"kigo": "えぞにうの花",
+		"yomigana": "えぞにうの花",
+		"kyukana": "",
+		"bodai": [
+			"蝦夷丹生（えぞにう）の花",
+			"にうのはな"
+		]
+	},
+	{
+		"kigo": "金雀枝",
+		"yomigana": "えにしだ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "槐の花",
+		"yomigana": "えんじゅのはな",
+		"kyukana": "",
+		"bodai": [
+			"花槐"
+		]
+	},
+	{
+		"kigo": "炎昼",
+		"yomigana": "えんちゅう",
+		"kyukana": "えんちう",
+		"bodai": [
+			"夏の昼"
+		]
+	},
+	{
+		"kigo": "炎宙",
+		"yomigana": "えんちゅう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "炎天",
+		"yomigana": "えんてん",
+		"kyukana": "",
+		"bodai": [
+			"炎気",
+			"炎天下"
+		]
+	},
+	{
+		"kigo": "豌豆",
+		"yomigana": "えんどう",
+		"kyukana": "ゑんどう",
+		"bodai": [
+			"莢豌豆"
+		]
+	},
+	{
+		"kigo": "花魁草",
+		"yomigana": "おいらんそう",
+		"kyukana": "おいらんさう",
+		"bodai": [
+			"草夾竹桃"
+		]
+	},
+	{
+		"kigo": "扇",
+		"yomigana": "おうぎ",
+		"kyukana": "あふぎ",
+		"bodai": [
+			"扇子",
+			"白扇",
+			"絵扇",
+			"古扇"
+		]
+	},
+	{
+		"kigo": "黄蜀葵",
+		"yomigana": "おうしょくき",
+		"kyukana": "わうしょくき",
+		"bodai": [
+			"とろろあおい"
+		]
+	},
+	{
+		"kigo": "楝の花",
+		"yomigana": "おうちのはな",
+		"kyukana": "あうちのはな",
+		"bodai": [
+			"樗の花",
+			"花樗",
+			"栴檀の花"
+		]
+	},
+	{
+		"kigo": "桜桃忌",
+		"yomigana": "おうとうき",
+		"kyukana": "あうたうき",
+		"bodai": [
+			"太宰忌"
+		]
+	},
+	{
+		"kigo": "車前草の花",
+		"yomigana": "おおばこのはな",
+		"kyukana": "おほばこのはな",
+		"bodai": [
+			"大車前",
+			"おんばこ",
+			"かへるば"
+		]
+	},
+	{
+		"kigo": "大山蓮華",
+		"yomigana": "おおやまれんげ",
+		"kyukana": "",
+		"bodai": [
+			"天花女"
+		]
+	},
+	{
+		"kigo": "大瑠璃",
+		"yomigana": "おおるり",
+		"kyukana": "おほるり",
+		"bodai": [
+			"瑠璃"
+		]
+	},
+	{
+		"kigo": "沖膾",
+		"yomigana": "おきなます",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "沖縄慰霊の日",
+		"yomigana": "おきなわいれいのひ",
+		"kyukana": "おきなはゐれいのひ",
+		"bodai": [
+			"沖縄忌"
+		]
+	},
+	{
+		"kigo": "オクラ",
+		"yomigana": "おくら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "含羞草",
+		"yomigana": "おじぎそう",
+		"kyukana": "おじぎさう",
+		"bodai": [
+			"眠草"
+		]
+	},
+	{
+		"kigo": "御田植",
+		"yomigana": "おたうえ",
+		"kyukana": "おたうゑ",
+		"bodai": [
+			"御田",
+			"神植",
+			"御田祭"
+		]
+	},
+	{
+		"kigo": "落し文",
+		"yomigana": "おとしぶみ",
+		"kyukana": "",
+		"bodai": [
+			"鶯のおとし文",
+			"時鳥の落し文"
+		]
+	},
+	{
+		"kigo": "踊子草",
+		"yomigana": "おどりこそう",
+		"kyukana": "をどりこさう",
+		"bodai": [
+			"踊草",
+			"踊花"
+		]
+	},
+	{
+		"kigo": "お花畑",
+		"yomigana": "おはなばたけ",
+		"kyukana": "",
+		"bodai": [
+			"お花畠"
+		]
+	},
+	{
+		"kigo": "お化け屋敷",
+		"yomigana": "おばけやしき",
+		"kyukana": "",
+		"bodai": [
+			"幽霊",
+			"肝試",
+			"怪談",
+			"百物語"
+		]
+	},
+	{
+		"kigo": "沢瀉",
+		"yomigana": "おもだか",
+		"kyukana": "",
+		"bodai": [
+			"花慈姑"
+		]
+	},
+	{
+		"kigo": "泳ぎ",
+		"yomigana": "およぎ",
+		"kyukana": "",
+		"bodai": [
+			"水泳",
+			"水練",
+			"遊泳",
+			"競泳",
+			"遠泳",
+			"ダイビング",
+			"浮輪"
+		]
+	},
+	{
+		"kigo": "蚊",
+		"yomigana": "か",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蚕の上蔟",
+		"yomigana": "かいこのあがり",
+		"kyukana": "かひこのあがり",
+		"bodai": [
+			"上蔟"
+		]
+	},
+	{
+		"kigo": "海水着",
+		"yomigana": "かいすいぎ",
+		"kyukana": "",
+		"bodai": [
+			"水着",
+			"海水帽",
+			"ビキニ",
+			"ハイレグ"
+		]
+	},
+	{
+		"kigo": "海水浴",
+		"yomigana": "かいすいよく",
+		"kyukana": "",
+		"bodai": [
+			"潮浴び",
+			"海の家"
+		]
+	},
+	{
+		"kigo": "夏期講習会",
+		"yomigana": "かきこうしゅうかい",
+		"kyukana": "かきかうしふくわい",
+		"bodai": [
+			"夏期大学"
+		]
+	},
+	{
+		"kigo": "燕子花",
+		"yomigana": "かきつばた",
+		"kyukana": "",
+		"bodai": [
+			"杜若"
+		]
+	},
+	{
+		"kigo": "柿の花",
+		"yomigana": "かきのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "柿若葉",
+		"yomigana": "かきわかば",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "霍乱",
+		"yomigana": "かくらん",
+		"kyukana": "くわくらん",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "籠枕",
+		"yomigana": "かごまくら",
+		"kyukana": "",
+		"bodai": [
+			"籐枕",
+			"陶枕"
+		]
+	},
+	{
+		"kigo": "樫若葉",
+		"yomigana": "かしわかば",
+		"kyukana": "",
+		"bodai": [
+			"樫茂る",
+			"青樫"
+		]
+	},
+	{
+		"kigo": "柏餅",
+		"yomigana": "かしわもち",
+		"kyukana": "かしはもち",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "河鹿",
+		"yomigana": "かじか",
+		"kyukana": "",
+		"bodai": [
+			"河鹿蛙",
+			"河鹿笛"
+		]
+	},
+	{
+		"kigo": "風薫る",
+		"yomigana": "かぜかおる",
+		"kyukana": "かぜかをる",
+		"bodai": [
+			"薫風",
+			"薫る風"
+		]
+	},
+	{
+		"kigo": "風死す",
+		"yomigana": "かぜしす",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "片蔭",
+		"yomigana": "かたかげ",
+		"kyukana": "",
+		"bodai": [
+			"日陰",
+			"片かげり"
+		]
+	},
+	{
+		"kigo": "蝸牛",
+		"yomigana": "かたつむり",
+		"kyukana": "",
+		"bodai": [
+			"蝸牛",
+			"ででむし",
+			"でんでんむし"
+		]
+	},
+	{
+		"kigo": "酢漿の花",
+		"yomigana": "かたばみのはな",
+		"kyukana": "",
+		"bodai": [
+			"酢漿草"
+		]
+	},
+	{
+		"kigo": "帷子",
+		"yomigana": "かたびら",
+		"kyukana": "",
+		"bodai": [
+			"白帷子",
+			"染帷子",
+			"黄帷子"
+		]
+	},
+	{
+		"kigo": "郭公",
+		"yomigana": "かっこう",
+		"kyukana": "くわくこう",
+		"bodai": [
+			"閑古鳥",
+			"かつこ鳥"
+		]
+	},
+	{
+		"kigo": "河童忌",
+		"yomigana": "かっぱき",
+		"kyukana": "かつぱき",
+		"bodai": [
+			"我鬼忌",
+			"龍之介忌"
+		]
+	},
+	{
+		"kigo": "鰹",
+		"yomigana": "かつお",
+		"kyukana": "かつを",
+		"bodai": [
+			"松魚",
+			"鰹釣",
+			"鰹船"
+		]
+	},
+	{
+		"kigo": "蟹",
+		"yomigana": "かに",
+		"kyukana": "",
+		"bodai": [
+			"山蟹",
+			"沢蟹",
+			"川蟹",
+			"磯蟹"
+		]
+	},
+	{
+		"kigo": "黴",
+		"yomigana": "かび",
+		"kyukana": "",
+		"bodai": [
+			"青黴",
+			"毛黴",
+			"麹黴",
+			"黴の宿",
+			"黴の香"
+		]
+	},
+	{
+		"kigo": "兜虫",
+		"yomigana": "かぶとむし",
+		"kyukana": "",
+		"bodai": [
+			"甲虫　さいかち虫　鍬形"
+		]
+	},
+	{
+		"kigo": "南瓜の花",
+		"yomigana": "かぼちゃのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蟷螂生る",
+		"yomigana": "かまきりうまる",
+		"kyukana": "",
+		"bodai": [
+			"蟷螂生る",
+			"子かまきり"
+		]
+	},
+	{
+		"kigo": "髪洗う",
+		"yomigana": "かみあらう",
+		"kyukana": "かみあらふ",
+		"bodai": [
+			"洗ひ髪",
+			"髪洗ふ"
+		]
+	},
+	{
+		"kigo": "天牛",
+		"yomigana": "かみきり",
+		"kyukana": "",
+		"bodai": [
+			"髪切虫",
+			"かみきり"
+		]
+	},
+	{
+		"kigo": "雷",
+		"yomigana": "かみなり",
+		"kyukana": "",
+		"bodai": [
+			"神鳴",
+			"雷",
+			"いかづち",
+			"はたた神",
+			"雷鳴",
+			"遠雷",
+			"軽雷",
+			"落雷",
+			"雷雨",
+			"日雷"
+		]
+	},
+	{
+		"kigo": "亀の子",
+		"yomigana": "かめのこ",
+		"kyukana": "",
+		"bodai": [
+			"銭亀"
+		]
+	},
+	{
+		"kigo": "蚊帳",
+		"yomigana": "かや",
+		"kyukana": "",
+		"bodai": [
+			"かや",
+			"枕蚊帳",
+			"母衣蚊帳"
+		]
+	},
+	{
+		"kigo": "蚊帳吊草",
+		"yomigana": "かやつりぐさ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蚊遣火",
+		"yomigana": "かやりび",
+		"kyukana": "",
+		"bodai": [
+			"蚊遣",
+			"蚊火",
+			"蚊取線香"
+		]
+	},
+	{
+		"kigo": "烏瓜の花",
+		"yomigana": "からすうりのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鴉の子",
+		"yomigana": "からすのこ",
+		"kyukana": "",
+		"bodai": [
+			"烏の子",
+			"子烏",
+			"親烏"
+		]
+	},
+	{
+		"kigo": "空梅雨",
+		"yomigana": "からつゆ",
+		"kyukana": "",
+		"bodai": [
+			"旱梅雨"
+		]
+	},
+	{
+		"kigo": "軽鳧の子",
+		"yomigana": "かるのこ",
+		"kyukana": "",
+		"bodai": [
+			"軽鴨の子"
+		]
+	},
+	{
+		"kigo": "川狩",
+		"yomigana": "かわがり",
+		"kyukana": "かはがり",
+		"bodai": [
+			"投網",
+			"川干",
+			"毒流し",
+			"かへぼり",
+			"瀬干し"
+		]
+	},
+	{
+		"kigo": "翡翠",
+		"yomigana": "かわせみ",
+		"kyukana": "かはせみ",
+		"bodai": [
+			"川蝉",
+			"せうびん",
+			"翡翠"
+		]
+	},
+	{
+		"kigo": "川蜻蛉",
+		"yomigana": "かわとんぼ",
+		"kyukana": "かはとんぼ",
+		"bodai": [
+			"おはぐろとんぼ",
+			"おはぐろ",
+			"かねつけ蜻蛉"
+		]
+	},
+	{
+		"kigo": "川開",
+		"yomigana": "かわびらき",
+		"kyukana": "かはびらき",
+		"bodai": [
+			"両国の川開"
+		]
+	},
+	{
+		"kigo": "河骨",
+		"yomigana": "かわほね",
+		"kyukana": "かはほね",
+		"bodai": [
+			"かうほね"
+		]
+	},
+	{
+		"kigo": "萱草の花",
+		"yomigana": "かんぞうのはな",
+		"kyukana": "",
+		"bodai": [
+			"ひるな",
+			"花萱草",
+			"忘草",
+			"藪萱草"
+		]
+	},
+	{
+		"kigo": "干瓢剥く",
+		"yomigana": "かんぴょうむく",
+		"kyukana": "かんぺうむく",
+		"bodai": [
+			"干瓢干す",
+			"新干瓢"
+		]
+	},
+	{
+		"kigo": "カーネーション",
+		"yomigana": "かーねーしょん",
+		"kyukana": "",
+		"bodai": [
+			"和蘭石竹"
+		]
+	},
+	{
+		"kigo": "蛾",
+		"yomigana": "が",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "金銀蓮花",
+		"yomigana": "ががぶた",
+		"kyukana": "",
+		"bodai": [
+			"鏡蓋"
+		]
+	},
+	{
+		"kigo": "ががんぼ",
+		"yomigana": "ががんぼ",
+		"kyukana": "",
+		"bodai": [
+			"蚊蜻蛉",
+			"蚊の姥",
+			"大蚊"
+		]
+	},
+	{
+		"kigo": "額の花",
+		"yomigana": "がくのはな",
+		"kyukana": "",
+		"bodai": [
+			"額紫陽花"
+		]
+	},
+	{
+		"kigo": "ガタリンピック",
+		"yomigana": "がたりんぴっく",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "がまずみの花",
+		"yomigana": "がまずみのはな",
+		"kyukana": "",
+		"bodai": [
+			"莢迷（がまずみ）の花、鎌酸実（がまずみ）の花"
+		]
+	},
+	{
+		"kigo": "蒲の穂",
+		"yomigana": "がまのほ",
+		"kyukana": "",
+		"bodai": [
+			"蒲の花",
+			"蒲",
+			"御簾草"
+		]
+	},
+	{
+		"kigo": "鑑真忌",
+		"yomigana": "がんじんき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "岩菲",
+		"yomigana": "がんぴ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "木苺",
+		"yomigana": "きいちご",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "喜雨",
+		"yomigana": "きう",
+		"kyukana": "",
+		"bodai": [
+			"雨喜び"
+		]
+	},
+	{
+		"kigo": "胡瓜",
+		"yomigana": "きうり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "胡瓜の花",
+		"yomigana": "きうりのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "菊挿す",
+		"yomigana": "きくさす",
+		"kyukana": "",
+		"bodai": [
+			"菊挿芽",
+			"挿菊"
+		]
+	},
+	{
+		"kigo": "木耳",
+		"yomigana": "きくらげ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鱚",
+		"yomigana": "きす",
+		"kyukana": "",
+		"bodai": [
+			"きすご",
+			"鱚釣"
+		]
+	},
+	{
+		"kigo": "帰省",
+		"yomigana": "きせい",
+		"kyukana": "",
+		"bodai": [
+			"帰省子"
+		]
+	},
+	{
+		"kigo": "狐の提燈",
+		"yomigana": "きつねのちょうちん",
+		"kyukana": "きつねのちやうちん",
+		"bodai": [
+			"宝鐸草の花"
+		]
+	},
+	{
+		"kigo": "キャベツ",
+		"yomigana": "きゃべつ",
+		"kyukana": "",
+		"bodai": [
+			"甘藍",
+			"玉菜",
+			"牡丹菜"
+		]
+	},
+	{
+		"kigo": "キャンプ",
+		"yomigana": "きゃんぷ",
+		"kyukana": "",
+		"bodai": [
+			"キャンピング",
+			"テント",
+			"バンガロー",
+			"キャンプ村",
+			"キャンプファイヤー"
+		]
+	},
+	{
+		"kigo": "鏡太郎忌",
+		"yomigana": "きょうたろうき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夾竹桃",
+		"yomigana": "きょうちくとう",
+		"kyukana": "けふちくとう",
+		"bodai": [
+			"桃葉紅（とうようこう）"
+		]
+	},
+	{
+		"kigo": "桐の花",
+		"yomigana": "きりのはな",
+		"kyukana": "",
+		"bodai": [
+			"花桐"
+		]
+	},
+	{
+		"kigo": "金魚",
+		"yomigana": "きんぎょ",
+		"kyukana": "きんぎよ",
+		"bodai": [
+			"和金",
+			"琉金",
+			"蘭鋳",
+			"出目金",
+			"金魚鉢"
+		]
+	},
+	{
+		"kigo": "金魚売",
+		"yomigana": "きんぎょうり",
+		"kyukana": "きんぎようり",
+		"bodai": [
+			"金魚すくい"
+		]
+	},
+	{
+		"kigo": "金魚草",
+		"yomigana": "きんぎょそう",
+		"kyukana": "きんぎょさう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "金魚玉",
+		"yomigana": "きんぎょだま",
+		"kyukana": "きんぎよだま",
+		"bodai": [
+			"金魚鉢"
+		]
+	},
+	{
+		"kigo": "祇園祭",
+		"yomigana": "ぎおんまつり",
+		"kyukana": "ぎをんまつり",
+		"bodai": [
+			"祇園会",
+			"祇園御霊会",
+			"天王祭",
+			"山鉾",
+			"祇園囃子",
+			"祇園太鼓",
+			"祇園山笠",
+			"鉾祭",
+			"鉾立",
+			"弦召"
+		]
+	},
+	{
+		"kigo": "羊蹄の花",
+		"yomigana": "ぎしぎしのはな",
+		"kyukana": "",
+		"bodai": [
+			"野大黄"
+		]
+	},
+	{
+		"kigo": "擬宝珠の花",
+		"yomigana": "ぎぼうしのはな",
+		"kyukana": "",
+		"bodai": [
+			"花擬宝珠",
+			"ぎぼし"
+		]
+	},
+	{
+		"kigo": "牛馬冷す",
+		"yomigana": "ぎゅうばひやす",
+		"kyukana": "ぎうばひやす",
+		"bodai": [
+			"牛冷す",
+			"馬冷す",
+			"牛洗ふ",
+			"馬洗ふ"
+		]
+	},
+	{
+		"kigo": "行水",
+		"yomigana": "ぎょうずい",
+		"kyukana": "ぎやうずい",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水鶏",
+		"yomigana": "くいな",
+		"kyukana": "くひな",
+		"bodai": [
+			"水鶏笛"
+		]
+	},
+	{
+		"kigo": "草いきれ",
+		"yomigana": "くさいきれ",
+		"kyukana": "",
+		"bodai": [
+			"草のいきれ"
+		]
+	},
+	{
+		"kigo": "草孵蝣",
+		"yomigana": "くさかげろう",
+		"kyukana": "くさかげろふ",
+		"bodai": [
+			"臭浮蝣"
+		]
+	},
+	{
+		"kigo": "草刈",
+		"yomigana": "くさかり",
+		"kyukana": "",
+		"bodai": [
+			"朝草刈",
+			"草刈女",
+			"草刈籠"
+		]
+	},
+	{
+		"kigo": "草茂る",
+		"yomigana": "くさしげる",
+		"kyukana": "",
+		"bodai": [
+			"茂る草"
+		]
+	},
+	{
+		"kigo": "草田男忌",
+		"yomigana": "くさたおき",
+		"kyukana": "くさたをき",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "草取",
+		"yomigana": "くさとり",
+		"kyukana": "",
+		"bodai": [
+			"草むしり",
+			"除草"
+		]
+	},
+	{
+		"kigo": "草笛",
+		"yomigana": "くさぶえ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "草矢",
+		"yomigana": "くさや",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "孔雀草",
+		"yomigana": "くじゃくそう",
+		"kyukana": "くじゃくさう",
+		"bodai": [
+			"波斯菊",
+			"蛇の目草"
+		]
+	},
+	{
+		"kigo": "薬玉",
+		"yomigana": "くすだま",
+		"kyukana": "",
+		"bodai": [
+			"長命縷",
+			"五月玉"
+		]
+	},
+	{
+		"kigo": "薬狩",
+		"yomigana": "くすりがり",
+		"kyukana": "",
+		"bodai": [
+			"薬猟"
+		]
+	},
+	{
+		"kigo": "樟若葉",
+		"yomigana": "くすわかば",
+		"kyukana": "",
+		"bodai": [
+			"楠若葉",
+			"楠茂る",
+			"青楠"
+		]
+	},
+	{
+		"kigo": "葛饅頭",
+		"yomigana": "くずまんじゅう",
+		"kyukana": "くずまんぢゆう",
+		"bodai": [
+			"葛桜"
+		]
+	},
+	{
+		"kigo": "葛水",
+		"yomigana": "くずみず",
+		"kyukana": "くずみづ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "葛餅",
+		"yomigana": "くずもち",
+		"kyukana": "",
+		"bodai": [
+			"葛練",
+			"葛切"
+		]
+	},
+	{
+		"kigo": "梔子の花",
+		"yomigana": "くちなしのはな",
+		"kyukana": "",
+		"bodai": [
+			"梔子",
+			"山梔子"
+		]
+	},
+	{
+		"kigo": "蜘蛛",
+		"yomigana": "くも",
+		"kyukana": "",
+		"bodai": [
+			"袋蜘蛛",
+			"蜘蛛の囲",
+			"蜘蛛の巣",
+			"蜘蛛の糸",
+			"蜘蛛の子",
+			"女郎蜘蛛"
+		]
+	},
+	{
+		"kigo": "雲の峰",
+		"yomigana": "くものみね",
+		"kyukana": "",
+		"bodai": [
+			"入道雲",
+			"積乱雲",
+			"雷雲",
+			"峰雲"
+		]
+	},
+	{
+		"kigo": "海月",
+		"yomigana": "くらげ",
+		"kyukana": "",
+		"bodai": [
+			"水母",
+			"水月"
+		]
+	},
+	{
+		"kigo": "競馬",
+		"yomigana": "くらべうま",
+		"kyukana": "",
+		"bodai": [
+			"賀茂の競馬",
+			"きそひ馬"
+		]
+	},
+	{
+		"kigo": "鞍馬の竹伐",
+		"yomigana": "くらまのたけきり",
+		"kyukana": "",
+		"bodai": [
+			"竹伐",
+			"竹伐会",
+			"蓮華会"
+		]
+	},
+	{
+		"kigo": "栗の花",
+		"yomigana": "くりのはな",
+		"kyukana": "",
+		"bodai": [
+			"花栗",
+			"栗咲く"
+		]
+	},
+	{
+		"kigo": "胡桃の花",
+		"yomigana": "くるみのはな",
+		"kyukana": "",
+		"bodai": [
+			"花胡桃"
+		]
+	},
+	{
+		"kigo": "黒鯛",
+		"yomigana": "くろだい",
+		"kyukana": "くろだひ",
+		"bodai": [
+			"ちぬ",
+			"ちぬ釣"
+		]
+	},
+	{
+		"kigo": "黒南風",
+		"yomigana": "くろはえ",
+		"kyukana": "",
+		"bodai": [
+			"白南風"
+		]
+	},
+	{
+		"kigo": "桑の実",
+		"yomigana": "くわのみ",
+		"kyukana": "くはのみ",
+		"bodai": [
+			"桑いちご"
+		]
+	},
+	{
+		"kigo": "グラジオラス",
+		"yomigana": "ぐらじおらす",
+		"kyukana": "",
+		"bodai": [
+			"唐菖蒲",
+			"和蘭あやめ"
+		]
+	},
+	{
+		"kigo": "競渡",
+		"yomigana": "けいと",
+		"kyukana": "",
+		"bodai": [
+			"ペーロン",
+			"ペーロン船",
+			"ハーリー",
+			"爬竜船"
+		]
+	},
+	{
+		"kigo": "罌栗の花",
+		"yomigana": "けしのはな",
+		"kyukana": "",
+		"bodai": [
+			"芥子の花",
+			"花罌栗",
+			"芥子"
+		]
+	},
+	{
+		"kigo": "罌栗坊主",
+		"yomigana": "けしぼうず",
+		"kyukana": "",
+		"bodai": [
+			"芥子坊主",
+			"罌栗の実"
+		]
+	},
+	{
+		"kigo": "毛虫",
+		"yomigana": "けむし",
+		"kyukana": "",
+		"bodai": [
+			"毛虫焼く"
+		]
+	},
+	{
+		"kigo": "螻蛄",
+		"yomigana": "けら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "健吉忌",
+		"yomigana": "けんきちき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏書",
+		"yomigana": "げがき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏至",
+		"yomigana": "げし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蚰蜒",
+		"yomigana": "げじげじ",
+		"kyukana": "げぢげぢ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "月下美人",
+		"yomigana": "げっかびじん",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "源五郎",
+		"yomigana": "げんごろう",
+		"kyukana": "げんごらう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "げんのしようこ",
+		"yomigana": "げんのしようこ",
+		"kyukana": "",
+		"bodai": [
+			"現の証拠",
+			"神輿草"
+		]
+	},
+	{
+		"kigo": "原爆忌",
+		"yomigana": "げんばくき",
+		"kyukana": "",
+		"bodai": [
+			"原爆の日",
+			"広島忌",
+			"長崎忌"
+		]
+	},
+	{
+		"kigo": "鯉幟",
+		"yomigana": "こいのぼり",
+		"kyukana": "こひのぼり",
+		"bodai": [
+			"五月鯉",
+			"吹流し",
+			"矢車"
+		]
+	},
+	{
+		"kigo": "紅蜀葵",
+		"yomigana": "こうしょくき",
+		"kyukana": "",
+		"bodai": [
+			"もみじあおい（もみぢあふひ）"
+		]
+	},
+	{
+		"kigo": "香水",
+		"yomigana": "こうすい",
+		"kyukana": "かうすい",
+		"bodai": [
+			"掛香"
+		]
+	},
+	{
+		"kigo": "蝙蝠",
+		"yomigana": "こうもり",
+		"kyukana": "かうもり",
+		"bodai": [
+			"かはほり",
+			"蚊喰鳥"
+		]
+	},
+	{
+		"kigo": "氷水",
+		"yomigana": "こおりみず",
+		"kyukana": "こほりみづ",
+		"bodai": [
+			"削氷",
+			"かき氷",
+			"夏氷",
+			"氷小豆",
+			"氷苺",
+			"氷店"
+		]
+	},
+	{
+		"kigo": "金亀子",
+		"yomigana": "こがねむし",
+		"kyukana": "",
+		"bodai": [
+			"黄金虫",
+			"かなぶん",
+			"ぶんぶん",
+			"ぶんぶん虫"
+		]
+	},
+	{
+		"kigo": "穀象",
+		"yomigana": "こくぞう",
+		"kyukana": "",
+		"bodai": [
+			"穀象虫",
+			"米の虫"
+		]
+	},
+	{
+		"kigo": "苔の花",
+		"yomigana": "こけのはな",
+		"kyukana": "",
+		"bodai": [
+			"花苔"
+		]
+	},
+	{
+		"kigo": "木下闇",
+		"yomigana": "こしたやみ",
+		"kyukana": "",
+		"bodai": [
+			"木の下闇",
+			"下闇",
+			"青葉闇",
+			"木暮",
+			"木暮る",
+			"木暗し"
+		]
+	},
+	{
+		"kigo": "子供の日",
+		"yomigana": "こどものひ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "木葉木菟",
+		"yomigana": "このはずく",
+		"kyukana": "このはづく",
+		"bodai": [
+			"仏法僧",
+			"声の仏法僧"
+		]
+	},
+	{
+		"kigo": "小判草",
+		"yomigana": "こばんそう",
+		"kyukana": "こばんさう",
+		"bodai": [
+			"俵麦"
+		]
+	},
+	{
+		"kigo": "駒繋",
+		"yomigana": "こまつなぎ",
+		"kyukana": "",
+		"bodai": [
+			"うまつなぎ"
+		]
+	},
+	{
+		"kigo": "駒鳥",
+		"yomigana": "こまどり",
+		"kyukana": "",
+		"bodai": [
+			"こま"
+		]
+	},
+	{
+		"kigo": "米搗虫",
+		"yomigana": "こめつきむし",
+		"kyukana": "",
+		"bodai": [
+			"叩頭虫"
+		]
+	},
+	{
+		"kigo": "更衣",
+		"yomigana": "ころもがえ",
+		"kyukana": "ころもがへ",
+		"bodai": [
+			"衣更ふ"
+		]
+	},
+	{
+		"kigo": "昆虫採集",
+		"yomigana": "こんちゅうさいしゅう",
+		"kyukana": "こんちゆうさいしふ",
+		"bodai": [
+			"捕虫網",
+			"毒瓶"
+		]
+	},
+	{
+		"kigo": "昆布刈る",
+		"yomigana": "こんぶかる",
+		"kyukana": "",
+		"bodai": [
+			"昆布干す",
+			"昆布船"
+		]
+	},
+	{
+		"kigo": "五位鷺",
+		"yomigana": "ごいさぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "五月",
+		"yomigana": "ごがつ",
+		"kyukana": "ごぐわつ",
+		"bodai": [
+			"五月来る",
+			"聖五月"
+		]
+	},
+	{
+		"kigo": "ごきぶり",
+		"yomigana": "ごきぶり",
+		"kyukana": "",
+		"bodai": [
+			"油虫",
+			"ごきかぶり"
+		]
+	},
+	{
+		"kigo": "極暑",
+		"yomigana": "ごくしょ",
+		"kyukana": "ごくしよ",
+		"bodai": [
+			"酷暑",
+			"劫暑"
+		]
+	},
+	{
+		"kigo": "胡麻の花",
+		"yomigana": "ごまのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "御来迎",
+		"yomigana": "ごらいごう",
+		"kyukana": "ごらいがう",
+		"bodai": [
+			"御来光",
+			"円虹"
+		]
+	},
+	{
+		"kigo": "鮴汁",
+		"yomigana": "ごりじる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "サイダー",
+		"yomigana": "さいだー",
+		"kyukana": "",
+		"bodai": [
+			"冷しサイダー"
+		]
+	},
+	{
+		"kigo": "早乙女",
+		"yomigana": "さおとめ",
+		"kyukana": "さをとめ",
+		"bodai": [
+			"植女",
+			"五月女"
+		]
+	},
+	{
+		"kigo": "鷺草",
+		"yomigana": "さぎそう",
+		"kyukana": "さぎさう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "桜の実",
+		"yomigana": "さくらのみ",
+		"kyukana": "",
+		"bodai": [
+			"実桜"
+		]
+	},
+	{
+		"kigo": "さくらんぼ",
+		"yomigana": "さくらんぼ",
+		"kyukana": "",
+		"bodai": [
+			"桜桃の実",
+			"桜桃"
+		]
+	},
+	{
+		"kigo": "皐月",
+		"yomigana": "さつき",
+		"kyukana": "",
+		"bodai": [
+			"五月",
+			"早苗月"
+		]
+	},
+	{
+		"kigo": "さつき",
+		"yomigana": "さつき",
+		"kyukana": "",
+		"bodai": [
+			"杜鵑花",
+			"皐月",
+			"五月躑躅"
+		]
+	},
+	{
+		"kigo": "五月富士",
+		"yomigana": "さつきふじ",
+		"kyukana": "",
+		"bodai": [
+			"皐月富士",
+			"雪解富士",
+			"夏富士"
+		]
+	},
+	{
+		"kigo": "五月闇",
+		"yomigana": "さつきやみ",
+		"kyukana": "",
+		"bodai": [
+			"梅雨闇",
+			"夏闇"
+		]
+	},
+	{
+		"kigo": "早苗",
+		"yomigana": "さなえ",
+		"kyukana": "さなへ",
+		"bodai": [
+			"捨苗",
+			"苗篭",
+			"早苗束",
+			"苗運び",
+			"早苗取",
+			"早苗舟",
+			"若苗",
+			"玉苗"
+		]
+	},
+	{
+		"kigo": "早苗饗",
+		"yomigana": "さなぶり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鯖",
+		"yomigana": "さば",
+		"kyukana": "",
+		"bodai": [
+			"鯖釣",
+			"鯖火"
+		]
+	},
+	{
+		"kigo": "仙人掌の花",
+		"yomigana": "さぼてんのはな",
+		"kyukana": "",
+		"bodai": [
+			"覇王樹"
+		]
+	},
+	{
+		"kigo": "五月雨",
+		"yomigana": "さみだれ",
+		"kyukana": "",
+		"bodai": [
+			"五月雨",
+			"さみだる"
+		]
+	},
+	{
+		"kigo": "晒井",
+		"yomigana": "さらしい",
+		"kyukana": "さらしゐ",
+		"bodai": [
+			"井戸替",
+			"井戸浚"
+		]
+	},
+	{
+		"kigo": "沙羅双樹",
+		"yomigana": "さらそうじゅ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "沙羅の花",
+		"yomigana": "さらのはな",
+		"kyukana": "",
+		"bodai": [
+			"夏椿",
+			"あからぎ",
+			"さるなめ",
+			"姫沙羅"
+		]
+	},
+	{
+		"kigo": "松蘿",
+		"yomigana": "さるおがせ",
+		"kyukana": "さるをがせ",
+		"bodai": [
+			"猿麻桛、さがりごけ"
+		]
+	},
+	{
+		"kigo": "百日紅",
+		"yomigana": "さるすべり",
+		"kyukana": "",
+		"bodai": [
+			"百日紅",
+			"白さるすべり",
+			"さるすべり"
+		]
+	},
+	{
+		"kigo": "サルビア",
+		"yomigana": "さるびあ",
+		"kyukana": "",
+		"bodai": [
+			"緋衣草"
+		]
+	},
+	{
+		"kigo": "サングラス",
+		"yomigana": "さんぐらす",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "三光鳥",
+		"yomigana": "さんこうちょう",
+		"kyukana": "さんくわうてう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "三光鳥",
+		"yomigana": "さんこうちょう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "山椒魚",
+		"yomigana": "さんしょううお",
+		"kyukana": "さんせううを",
+		"bodai": [
+			"はんざき"
+		]
+	},
+	{
+		"kigo": "三社祭",
+		"yomigana": "さんじゃまつり",
+		"kyukana": "さんじやまつり",
+		"bodai": [
+			"浅草祭"
+		]
+	},
+	{
+		"kigo": "撒水車",
+		"yomigana": "さんすいしゃ",
+		"kyukana": "さんすいしや",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "三伏",
+		"yomigana": "さんぷく",
+		"kyukana": "",
+		"bodai": [
+			"初伏",
+			"中伏",
+			"末伏"
+		]
+	},
+	{
+		"kigo": "サーフィン",
+		"yomigana": "さーふぃん",
+		"kyukana": "",
+		"bodai": [
+			"波乗",
+			"サーファー",
+			"ボードデーリング",
+			"水上スキー"
+		]
+	},
+	{
+		"kigo": "石榴の花",
+		"yomigana": "ざくろのはな",
+		"kyukana": "",
+		"bodai": [
+			"花石榴"
+		]
+	},
+	{
+		"kigo": "椎の花",
+		"yomigana": "しいのはな",
+		"kyukana": "しひのはな",
+		"bodai": [
+			"花椎"
+		]
+	},
+	{
+		"kigo": "椎若葉",
+		"yomigana": "しいわかば",
+		"kyukana": "",
+		"bodai": [
+			"椎茂る",
+			"青椎"
+		]
+	},
+	{
+		"kigo": "鹿の子",
+		"yomigana": "しかのこ",
+		"kyukana": "",
+		"bodai": [
+			"鹿の子",
+			"子鹿",
+			"親鹿"
+		]
+	},
+	{
+		"kigo": "茂り",
+		"yomigana": "しげり",
+		"kyukana": "",
+		"bodai": [
+			"茂る",
+			"茂み",
+			"茂し"
+		]
+	},
+	{
+		"kigo": "四十雀",
+		"yomigana": "しじゅうから",
+		"kyukana": "しじふから",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "紫蘇",
+		"yomigana": "しそ",
+		"kyukana": "",
+		"bodai": [
+			"赤紫蘇",
+			"青紫蘇",
+			"花紫蘇"
+		]
+	},
+	{
+		"kigo": "滴り",
+		"yomigana": "したたり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "七月",
+		"yomigana": "しちがつ",
+		"kyukana": "しちぐわつ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "紙魚",
+		"yomigana": "しみ",
+		"kyukana": "",
+		"bodai": [
+			"衣魚",
+			"きらら",
+			"雲母虫"
+		]
+	},
+	{
+		"kigo": "清水",
+		"yomigana": "しみず",
+		"kyukana": "しみづ",
+		"bodai": [
+			"真清水",
+			"山清水",
+			"岩清水",
+			"苔清水",
+			"草清水"
+		]
+	},
+	{
+		"kigo": "繍線菊",
+		"yomigana": "しもつけ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "著莪の花",
+		"yomigana": "しゃがのはな",
+		"kyukana": "",
+		"bodai": [
+			"胡蝶花"
+		]
+	},
+	{
+		"kigo": "尺蠖",
+		"yomigana": "しゃくとり",
+		"kyukana": "しやくとり",
+		"bodai": [
+			"尺取虫",
+			"寸取虫"
+		]
+	},
+	{
+		"kigo": "石楠花",
+		"yomigana": "しゃくなげ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "芍薬",
+		"yomigana": "しゃくやく",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蝦蛄",
+		"yomigana": "しゃこ",
+		"kyukana": "しやこ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "秋櫻子忌",
+		"yomigana": "しゅうおうしき",
+		"kyukana": "しうあうしき",
+		"bodai": [
+			"喜雨亭忌",
+			"紫陽花忌",
+			"群青忌"
+		]
+	},
+	{
+		"kigo": "修司忌",
+		"yomigana": "しゅうじき",
+		"kyukana": "",
+		"bodai": [
+			"寺山忌",
+			"修司の忌"
+		]
+	},
+	{
+		"kigo": "楸邨忌",
+		"yomigana": "しゅうそんき",
+		"kyukana": "しうそんき",
+		"bodai": [
+			"達谷忌"
+		]
+	},
+	{
+		"kigo": "棕櫚の花",
+		"yomigana": "しゅろのはな",
+		"kyukana": "",
+		"bodai": [
+			"椶櫚の花"
+		]
+	},
+	{
+		"kigo": "焼酎",
+		"yomigana": "しょうちゅう",
+		"kyukana": "せうちう",
+		"bodai": [
+			"泡盛"
+		]
+	},
+	{
+		"kigo": "白菖",
+		"yomigana": "しょうぶ",
+		"kyukana": "",
+		"bodai": [
+			"菖蒲",
+			"あやめぐさ"
+		]
+	},
+	{
+		"kigo": "菖蒲酒",
+		"yomigana": "しょうぶざけ",
+		"kyukana": "しやうぶざけ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "菖蒲葺く",
+		"yomigana": "しょうぶふく",
+		"kyukana": "しやうぶふく",
+		"bodai": [
+			"菖蒲挿す",
+			"軒菖蒲"
+		]
+	},
+	{
+		"kigo": "菖蒲湯",
+		"yomigana": "しょうぶゆ",
+		"kyukana": "しやうぶゆ",
+		"bodai": [
+			"菖蒲風呂"
+		]
+	},
+	{
+		"kigo": "小満",
+		"yomigana": "しょうまん",
+		"kyukana": "せうまん",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蟭螟",
+		"yomigana": "しょうめい",
+		"kyukana": "せうめい",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初夏",
+		"yomigana": "しょか",
+		"kyukana": "しよか",
+		"bodai": [
+			"初夏",
+			"夏初め",
+			"首夏",
+			"孟夏"
+		]
+	},
+	{
+		"kigo": "暑気中り",
+		"yomigana": "しょきあたり",
+		"kyukana": "しよきあたり",
+		"bodai": [
+			"暑さ負け"
+		]
+	},
+	{
+		"kigo": "暑気払い",
+		"yomigana": "しょきばらい",
+		"kyukana": "しよきばらひ",
+		"bodai": [
+			"暑気下し"
+		]
+	},
+	{
+		"kigo": "暑中見舞",
+		"yomigana": "しょちゅうみまい",
+		"kyukana": "しよちゆうみまひ",
+		"bodai": [
+			"土用見舞",
+			"夏見舞",
+			"残暑見舞"
+		]
+	},
+	{
+		"kigo": "白鷺",
+		"yomigana": "しらさぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "白玉",
+		"yomigana": "しらたま",
+		"kyukana": "",
+		"bodai": [
+			"氷白玉"
+		]
+	},
+	{
+		"kigo": "紫蘭",
+		"yomigana": "しらん",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "代掻く",
+		"yomigana": "しろかく",
+		"kyukana": "",
+		"bodai": [
+			"代掻",
+			"田掻く",
+			"田掻馬",
+			"田掻牛",
+			"代馬",
+			"代牛",
+			"田水張る",
+			"代田"
+		]
+	},
+	{
+		"kigo": "白絣",
+		"yomigana": "しろがすり",
+		"kyukana": "",
+		"bodai": [
+			"白地"
+		]
+	},
+	{
+		"kigo": "白靴",
+		"yomigana": "しろぐつ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "新藷",
+		"yomigana": "しんいも",
+		"kyukana": "",
+		"bodai": [
+			"走り藷",
+			"新じゃが",
+			"新馬鈴薯"
+		]
+	},
+	{
+		"kigo": "新樹",
+		"yomigana": "しんじゅ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "新茶",
+		"yomigana": "しんちゃ",
+		"kyukana": "しんちや",
+		"bodai": [
+			"走り茶",
+			"茶詰",
+			"古茶"
+		]
+	},
+	{
+		"kigo": "新緑",
+		"yomigana": "しんりょく",
+		"kyukana": "",
+		"bodai": [
+			"緑さす"
+		]
+	},
+	{
+		"kigo": "森林浴",
+		"yomigana": "しんりんよく",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "慈悲心鳥",
+		"yomigana": "じひしんちょう",
+		"kyukana": "じひしんてう",
+		"bodai": [
+			"十一"
+		]
+	},
+	{
+		"kigo": "馬鈴薯の花",
+		"yomigana": "じゃがいものはな",
+		"kyukana": "",
+		"bodai": [
+			"じやがたらの花"
+		]
+	},
+	{
+		"kigo": "十薬",
+		"yomigana": "じゅうやく",
+		"kyukana": "じふやく",
+		"bodai": [
+			"どくだみ",
+			"どくだみの花"
+		]
+	},
+	{
+		"kigo": "蓴菜",
+		"yomigana": "じゅんさい",
+		"kyukana": "",
+		"bodai": [
+			"蓴",
+			"蓴の花",
+			"蓴採る",
+			"蓴舟"
+		]
+	},
+	{
+		"kigo": "ジューンドロップ",
+		"yomigana": "じゅーんどろっぷ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "上布",
+		"yomigana": "じょうふ",
+		"kyukana": "じやうふ",
+		"bodai": [
+			"越後上布",
+			"薩摩上布"
+		]
+	},
+	{
+		"kigo": "溽暑",
+		"yomigana": "じょくしょ",
+		"kyukana": "じよくしよ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "海霧",
+		"yomigana": "じり",
+		"kyukana": "",
+		"bodai": [
+			"海霧（かいむ）",
+			"海霧（うみぎり）",
+			"ガス"
+		]
+	},
+	{
+		"kigo": "甚平",
+		"yomigana": "じんべい",
+		"kyukana": "",
+		"bodai": [
+			"甚兵衛",
+			"じんべ"
+		]
+	},
+	{
+		"kigo": "西瓜",
+		"yomigana": "すいか",
+		"kyukana": "すいくわ",
+		"bodai": [
+			"西瓜畑",
+			"西瓜番"
+		]
+	},
+	{
+		"kigo": "忍冬の花",
+		"yomigana": "すいかずらのはな",
+		"kyukana": "",
+		"bodai": [
+			"忍冬"
+		]
+	},
+	{
+		"kigo": "水中花",
+		"yomigana": "すいちゅうか",
+		"kyukana": "すいちゆうくわ",
+		"bodai": [
+			"酒中花"
+		]
+	},
+	{
+		"kigo": "水中眼鏡",
+		"yomigana": "すいちゅうめがね",
+		"kyukana": "すいちゆうめがね",
+		"bodai": [
+			"水眼鏡"
+		]
+	},
+	{
+		"kigo": "水飯",
+		"yomigana": "すいはん",
+		"kyukana": "",
+		"bodai": [
+			"水飯",
+			"洗ひ飯",
+			"水漬"
+		]
+	},
+	{
+		"kigo": "睡蓮",
+		"yomigana": "すいれん",
+		"kyukana": "",
+		"bodai": [
+			"ひつじぐさ"
+		]
+	},
+	{
+		"kigo": "すぐり",
+		"yomigana": "すぐり",
+		"kyukana": "",
+		"bodai": [
+			"カシス",
+			"くろすぐり",
+			"すぐりの実",
+			"グーズベリー",
+			"カラント",
+			"カーランツ",
+			"ふさすぐり"
+		]
+	},
+	{
+		"kigo": "鮓",
+		"yomigana": "すし",
+		"kyukana": "",
+		"bodai": [
+			"鮨",
+			"馴鮓",
+			"押鮓",
+			"握鮓",
+			"早鮓",
+			"一夜鮓",
+			"巻鮓"
+		]
+	},
+	{
+		"kigo": "涼し",
+		"yomigana": "すずし",
+		"kyukana": "",
+		"bodai": [
+			"朝涼",
+			"夕涼",
+			"晩涼",
+			"夜涼",
+			"涼風"
+		]
+	},
+	{
+		"kigo": "篠の子",
+		"yomigana": "すずのこ",
+		"kyukana": "",
+		"bodai": [
+			"笹の子",
+			"芽笹"
+		]
+	},
+	{
+		"kigo": "納涼",
+		"yomigana": "すずみ",
+		"kyukana": "",
+		"bodai": [
+			"納涼",
+			"門涼み",
+			"橋涼み",
+			"夕涼み",
+			"夜涼み",
+			"涼み台",
+			"納涼船"
+		]
+	},
+	{
+		"kigo": "鈴蘭",
+		"yomigana": "すずらん",
+		"kyukana": "",
+		"bodai": [
+			"君影草"
+		]
+	},
+	{
+		"kigo": "すててこ",
+		"yomigana": "すててこ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "李",
+		"yomigana": "すもも",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "諏訪の御柱祭",
+		"yomigana": "すわのおんばしらまつり",
+		"kyukana": "すはのおんばしらまつり",
+		"bodai": [
+			"御柱祭",
+			"諏訪祭"
+		]
+	},
+	{
+		"kigo": "盛夏",
+		"yomigana": "せいか",
+		"kyukana": "",
+		"bodai": [
+			"夏旺ん",
+			"真夏",
+			"真夏日"
+		]
+	},
+	{
+		"kigo": "石菖",
+		"yomigana": "せきしょう",
+		"kyukana": "せきしやう",
+		"bodai": [
+			"石あやめ"
+		]
+	},
+	{
+		"kigo": "石竹",
+		"yomigana": "せきちく",
+		"kyukana": "",
+		"bodai": [
+			"唐撫子"
+		]
+	},
+	{
+		"kigo": "雪渓",
+		"yomigana": "せっけい",
+		"kyukana": "せつけい",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蟬",
+		"yomigana": "せみ",
+		"kyukana": "",
+		"bodai": [
+			"油蟬",
+			"みんみん",
+			"熊蟬",
+			"にいにい蟬",
+			"唖蟬",
+			"初蟬",
+			"朝蟬",
+			"夕蟬",
+			"夜蟬",
+			"蟬時雨",
+			"落蟬",
+			"蝉"
+		]
+	},
+	{
+		"kigo": "蝉丸忌",
+		"yomigana": "せみまるき",
+		"kyukana": "",
+		"bodai": [
+			"蝉丸祭"
+		]
+	},
+	{
+		"kigo": "セル",
+		"yomigana": "せる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "千日草",
+		"yomigana": "せんにちそう",
+		"kyukana": "せんにちさう",
+		"bodai": [
+			"千日紅"
+		]
+	},
+	{
+		"kigo": "扇風機",
+		"yomigana": "せんぷうき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "宗吾忌",
+		"yomigana": "そうごき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蒼朮を焚く",
+		"yomigana": "そうじゅつをたく",
+		"kyukana": "さうじゆつをたく",
+		"bodai": [
+			"をけらたく",
+			"うけら焼く"
+		]
+	},
+	{
+		"kigo": "走馬灯",
+		"yomigana": "そうまとう",
+		"kyukana": "",
+		"bodai": [
+			"回り灯篭"
+		]
+	},
+	{
+		"kigo": "蚕豆",
+		"yomigana": "そらまめ",
+		"kyukana": "",
+		"bodai": [
+			"空豆",
+			"はじき豆"
+		]
+	},
+	{
+		"kigo": "ソーダ水",
+		"yomigana": "そーだすい",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "泰山木の花",
+		"yomigana": "たいざんぼくのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "大暑",
+		"yomigana": "たいしょ",
+		"kyukana": "たいしよ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "田植",
+		"yomigana": "たうえ",
+		"kyukana": "たうゑ",
+		"bodai": [
+			"田植笠",
+			"田植歌",
+			"田植時"
+		]
+	},
+	{
+		"kigo": "多佳子忌",
+		"yomigana": "たかこき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "たかし忌",
+		"yomigana": "たかしき",
+		"kyukana": "",
+		"bodai": [
+			"牡丹忌"
+		]
+	},
+	{
+		"kigo": "簟",
+		"yomigana": "たかむしろ",
+		"kyukana": "",
+		"bodai": [
+			"竹筵",
+			"籐筵"
+		]
+	},
+	{
+		"kigo": "滝",
+		"yomigana": "たき",
+		"kyukana": "",
+		"bodai": [
+			"瀑",
+			"瀑布",
+			"飛瀑",
+			"滝壷",
+			"滝しぶき",
+			"滝風",
+			"滝道",
+			"男滝",
+			"女滝",
+			"滝見",
+			"滝見茶屋"
+		]
+	},
+	{
+		"kigo": "滝浴び",
+		"yomigana": "たきあび",
+		"kyukana": "",
+		"bodai": [
+			"滝垢離",
+			"滝行",
+			"滝行者"
+		]
+	},
+	{
+		"kigo": "薪能",
+		"yomigana": "たきぎのう",
+		"kyukana": "",
+		"bodai": [
+			"興福寺の薪能",
+			"若宮能",
+			"芝能",
+			"薪猿楽"
+		]
+	},
+	{
+		"kigo": "滝殿",
+		"yomigana": "たきどの",
+		"kyukana": "",
+		"bodai": [
+			"泉殿",
+			"釣殿",
+			"水殿",
+			"水亭"
+		]
+	},
+	{
+		"kigo": "田草取",
+		"yomigana": "たぐさとり",
+		"kyukana": "",
+		"bodai": [
+			"田草引く",
+			"一番草",
+			"二番草",
+			"三番草"
+		]
+	},
+	{
+		"kigo": "竹落葉",
+		"yomigana": "たけおちば",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "竹煮草",
+		"yomigana": "たけにぐさ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "竹の皮脱ぐ",
+		"yomigana": "たけのかわぬぐ",
+		"kyukana": "たけのかはぬぐ",
+		"bodai": [
+			"竹皮を脱ぐ",
+			"竹の皮散る",
+			"竹の皮"
+		]
+	},
+	{
+		"kigo": "筍",
+		"yomigana": "たけのこ",
+		"kyukana": "",
+		"bodai": [
+			"笋",
+			"竹の子",
+			"たかんな",
+			"たかうな"
+		]
+	},
+	{
+		"kigo": "筍飯",
+		"yomigana": "たけのこめし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蛸",
+		"yomigana": "たこ",
+		"kyukana": "",
+		"bodai": [
+			"章魚",
+			"真蛸",
+			"麦藁蛸"
+		]
+	},
+	{
+		"kigo": "蓼",
+		"yomigana": "たで",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "霊棚",
+		"yomigana": "たまだな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "玉葱",
+		"yomigana": "たまねぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "玉巻く芭蕉",
+		"yomigana": "たままくばしょう",
+		"kyukana": "",
+		"bodai": [
+			"芭蕉の巻葉",
+			"玉解く芭蕉"
+		]
+	},
+	{
+		"kigo": "玉虫",
+		"yomigana": "たまむし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "田水沸く",
+		"yomigana": "たみずわく",
+		"kyukana": "たみづわく",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "端午",
+		"yomigana": "たんご",
+		"kyukana": "",
+		"bodai": [
+			"端午の節句",
+			"五月の節句",
+			"菖蒲の日",
+			"初節句"
+		]
+	},
+	{
+		"kigo": "橙の花",
+		"yomigana": "だいだいのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "ダリア",
+		"yomigana": "だりあ",
+		"kyukana": "",
+		"bodai": [
+			"天竺牡丹"
+		]
+	},
+	{
+		"kigo": "竹婦人",
+		"yomigana": "ちくふじん",
+		"kyukana": "",
+		"bodai": [
+			"竹夫人",
+			"抱籠",
+			"添寝籠"
+		]
+	},
+	{
+		"kigo": "父の日",
+		"yomigana": "ちちのひ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "縮布",
+		"yomigana": "ちぢみふ",
+		"kyukana": "",
+		"bodai": [
+			"縮",
+			"白縮",
+			"越後縮"
+		]
+	},
+	{
+		"kigo": "粽",
+		"yomigana": "ちまき",
+		"kyukana": "",
+		"bodai": [
+			"茅巻",
+			"笹粽",
+			"粽結ふ"
+		]
+	},
+	{
+		"kigo": "月見草",
+		"yomigana": "つきみそう",
+		"kyukana": "つきみさう",
+		"bodai": [
+			"月見草",
+			"待宵草"
+		]
+	},
+	{
+		"kigo": "筑摩祭",
+		"yomigana": "つくままつり",
+		"kyukana": "",
+		"bodai": [
+			"鍋祭",
+			"鍋冠祭",
+			"筑摩鍋"
+		]
+	},
+	{
+		"kigo": "筒鳥",
+		"yomigana": "つつどり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "燕の子",
+		"yomigana": "つばめのこ",
+		"kyukana": "",
+		"bodai": [
+			"子燕",
+			"親燕"
+		]
+	},
+	{
+		"kigo": "梅雨",
+		"yomigana": "つゆ",
+		"kyukana": "",
+		"bodai": [
+			"梅雨",
+			"黴雨",
+			"荒梅雨",
+			"梅雨湿り",
+			"走り梅雨",
+			"迎へ梅雨",
+			"送り梅雨",
+			"戻り梅雨",
+			"青梅雨",
+			"梅雨雲",
+			"梅雨夕焼"
+		]
+	},
+	{
+		"kigo": "梅雨明",
+		"yomigana": "つゆあけ",
+		"kyukana": "",
+		"bodai": [
+			"梅雨の明",
+			"梅雨あがる"
+		]
+	},
+	{
+		"kigo": "梅雨寒",
+		"yomigana": "つゆさむ",
+		"kyukana": "",
+		"bodai": [
+			"梅雨寒し",
+			"梅雨冷"
+		]
+	},
+	{
+		"kigo": "梅雨茸",
+		"yomigana": "つゆだけ",
+		"kyukana": "",
+		"bodai": [
+			"梅雨菌（つゆきのこ）"
+		]
+	},
+	{
+		"kigo": "梅雨晴",
+		"yomigana": "つゆばれ",
+		"kyukana": "",
+		"bodai": [
+			"五月晴",
+			"梅雨晴間"
+		]
+	},
+	{
+		"kigo": "釣忍",
+		"yomigana": "つりしのぶ",
+		"kyukana": "",
+		"bodai": [
+			"吊忍"
+		]
+	},
+	{
+		"kigo": "釣堀",
+		"yomigana": "つりぼり",
+		"kyukana": "",
+		"bodai": [
+			"箱釣"
+		]
+	},
+	{
+		"kigo": "鉄線花",
+		"yomigana": "てつせんか",
+		"kyukana": "てつせんくわ",
+		"bodai": [
+			"てつせんかづら",
+			"クレマチス",
+			"菊唐草"
+		]
+	},
+	{
+		"kigo": "繍毬花",
+		"yomigana": "てまりばな",
+		"kyukana": "",
+		"bodai": [
+			"手毬花",
+			"おおでまり（おほでまり）",
+			"花てまり"
+		]
+	},
+	{
+		"kigo": "天瓜粉",
+		"yomigana": "てんかふん",
+		"kyukana": "てんくわふん",
+		"bodai": [
+			"天花粉",
+			"汗しらず",
+			"シッカロール"
+		]
+	},
+	{
+		"kigo": "石花菜採る",
+		"yomigana": "てんぐさとる",
+		"kyukana": "",
+		"bodai": [
+			"天草とる",
+			"天草干す"
+		]
+	},
+	{
+		"kigo": "天神祭",
+		"yomigana": "てんじんまつり",
+		"kyukana": "",
+		"bodai": [
+			"天満祭",
+			"鉾流の神事",
+			"川渡御",
+			"神輿舟",
+			"どんどこ舟",
+			"天満の御祓"
+		]
+	},
+	{
+		"kigo": "天道虫",
+		"yomigana": "てんとうむし",
+		"kyukana": "",
+		"bodai": [
+			"瓢虫",
+			"てんとむし"
+		]
+	},
+	{
+		"kigo": "梯梧の花",
+		"yomigana": "でいごのはな",
+		"kyukana": "",
+		"bodai": [
+			"海紅豆（かいこうづ）"
+		]
+	},
+	{
+		"kigo": "出水",
+		"yomigana": "でみず",
+		"kyukana": "でみづ",
+		"bodai": [
+			"梅雨出水",
+			"夏出水"
+		]
+	},
+	{
+		"kigo": "伝教会",
+		"yomigana": "でんぎょうえ",
+		"kyukana": "でんげうゑ",
+		"bodai": [
+			"最澄忌",
+			"伝教大師忌",
+			"延暦寺六月会",
+			"長講会"
+		]
+	},
+	{
+		"kigo": "籐椅子",
+		"yomigana": "とういす",
+		"kyukana": "",
+		"bodai": [
+			"籐寝椅子"
+		]
+	},
+	{
+		"kigo": "玉蜀黍の花",
+		"yomigana": "とうもろこしのはな",
+		"kyukana": "",
+		"bodai": [
+			"なんばんの花"
+		]
+	},
+	{
+		"kigo": "通し鴨",
+		"yomigana": "とおしがも",
+		"kyukana": "とほしがも",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蜥蜴",
+		"yomigana": "とかげ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "時の記念日",
+		"yomigana": "ときのきねんび",
+		"kyukana": "",
+		"bodai": [
+			"時の日"
+		]
+	},
+	{
+		"kigo": "常磐木落葉",
+		"yomigana": "ときわぎおちば",
+		"kyukana": "",
+		"bodai": [
+			"杉落葉",
+			"樫落葉",
+			"夏落葉"
+		]
+	},
+	{
+		"kigo": "時計草",
+		"yomigana": "とけいそう",
+		"kyukana": "",
+		"bodai": [
+			"ぼろんかずら"
+		]
+	},
+	{
+		"kigo": "心太",
+		"yomigana": "ところてん",
+		"kyukana": "",
+		"bodai": [
+			"心天",
+			"こころぶと"
+		]
+	},
+	{
+		"kigo": "登山",
+		"yomigana": "とざん",
+		"kyukana": "",
+		"bodai": [
+			"山登り",
+			"登山道",
+			"登山口",
+			"登山小屋",
+			"登山宿",
+			"登山杖",
+			"登山帽",
+			"登山靴",
+			"登山電車",
+			"ケルン"
+		]
+	},
+	{
+		"kigo": "橡の花",
+		"yomigana": "とちのはな",
+		"kyukana": "",
+		"bodai": [
+			"栃の花",
+			"栃咲く"
+		]
+	},
+	{
+		"kigo": "飛魚",
+		"yomigana": "とびうお",
+		"kyukana": "とびうを",
+		"bodai": [
+			"とびを",
+			"つばめ魚",
+			"あご"
+		]
+	},
+	{
+		"kigo": "とべら",
+		"yomigana": "とべら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "海桐の花",
+		"yomigana": "とべらのはな",
+		"kyukana": "",
+		"bodai": [
+			"花とべら"
+		]
+	},
+	{
+		"kigo": "トマト",
+		"yomigana": "とまと",
+		"kyukana": "",
+		"bodai": [
+			"蕃茄",
+			"赤茄子"
+		]
+	},
+	{
+		"kigo": "虎が雨",
+		"yomigana": "とらがあめ",
+		"kyukana": "",
+		"bodai": [
+			"虎が涙雨"
+		]
+	},
+	{
+		"kigo": "虎鶫",
+		"yomigana": "とらつぐみ",
+		"kyukana": "",
+		"bodai": [
+			"トラツグミ",
+			"鵺"
+		]
+	},
+	{
+		"kigo": "虎尾草",
+		"yomigana": "とらのお",
+		"kyukana": "とらのを",
+		"bodai": [
+			"をかとらのを"
+		]
+	},
+	{
+		"kigo": "蜻蛉",
+		"yomigana": "とんぼ",
+		"kyukana": "",
+		"bodai": [
+			"とんぼう",
+			"やんま",
+			"麦藁とんぼ",
+			"塩辛とんぼ"
+		]
+	},
+	{
+		"kigo": "蜻蛉生れる",
+		"yomigana": "とんぼうまれる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "泥鰌",
+		"yomigana": "どじょう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "泥鰌鍋",
+		"yomigana": "どじょうなべ",
+		"kyukana": "どぢやうなべ",
+		"bodai": [
+			"泥鰌汁",
+			"柳川鍋"
+		]
+	},
+	{
+		"kigo": "土用",
+		"yomigana": "どよう",
+		"kyukana": "",
+		"bodai": [
+			"土用入",
+			"土用太郎",
+			"土用三郎",
+			"土用明"
+		]
+	},
+	{
+		"kigo": "土用鰻",
+		"yomigana": "どよううなぎ",
+		"kyukana": "",
+		"bodai": [
+			"土用丑の日の鰻"
+		]
+	},
+	{
+		"kigo": "土用蜆",
+		"yomigana": "どようしじみ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "土用波",
+		"yomigana": "どようなみ",
+		"kyukana": "",
+		"bodai": [
+			"土用浪"
+		]
+	},
+	{
+		"kigo": "ナイター",
+		"yomigana": "ないたー",
+		"kyukana": "",
+		"bodai": [
+			"ナイトゲーム"
+		]
+	},
+	{
+		"kigo": "名越の祓",
+		"yomigana": "なごしのはらえ",
+		"kyukana": "なごしのはらへ",
+		"bodai": [
+			"御祓",
+			"夏越",
+			"夏祓",
+			"川祓",
+			"川社",
+			"御祓川",
+			"形代",
+			"茅の輪",
+			"菅貫"
+		]
+	},
+	{
+		"kigo": "茄子",
+		"yomigana": "なす",
+		"kyukana": "",
+		"bodai": [
+			"なすび",
+			"初茄子",
+			"長茄子"
+		]
+	},
+	{
+		"kigo": "茄子漬",
+		"yomigana": "なすづけ",
+		"kyukana": "",
+		"bodai": [
+			"なすび漬"
+		]
+	},
+	{
+		"kigo": "茄子苗",
+		"yomigana": "なすなえ",
+		"kyukana": "なすなへ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "茄子の鴫焼",
+		"yomigana": "なすのしぎやき",
+		"kyukana": "",
+		"bodai": [
+			"鴫焼"
+		]
+	},
+	{
+		"kigo": "茄子の花",
+		"yomigana": "なすのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "菜種刈",
+		"yomigana": "なたねかり",
+		"kyukana": "",
+		"bodai": [
+			"菜種干す",
+			"菜種打つ",
+			"菜種殻",
+			"菜殻焚",
+			"菜殻火"
+		]
+	},
+	{
+		"kigo": "夏",
+		"yomigana": "なつ",
+		"kyukana": "",
+		"bodai": [
+			"三夏",
+			"九夏",
+			"炎帝",
+			"朱夏"
+		]
+	},
+	{
+		"kigo": "夏薊",
+		"yomigana": "なつあざみ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏帯",
+		"yomigana": "なつおび",
+		"kyukana": "",
+		"bodai": [
+			"単帯"
+		]
+	},
+	{
+		"kigo": "夏鴨",
+		"yomigana": "なつがも",
+		"kyukana": "",
+		"bodai": [
+			"軽鴨",
+			"黒鴨"
+		]
+	},
+	{
+		"kigo": "夏菊",
+		"yomigana": "なつぎく",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏銀河",
+		"yomigana": "なつぎんが",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏草",
+		"yomigana": "なつくさ",
+		"kyukana": "",
+		"bodai": [
+			"夏の草",
+			"青草"
+		]
+	},
+	{
+		"kigo": "夏桑",
+		"yomigana": "なつぐわ",
+		"kyukana": "なつぐは",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏木立",
+		"yomigana": "なつこだち",
+		"kyukana": "",
+		"bodai": [
+			"夏木"
+		]
+	},
+	{
+		"kigo": "夏蚕",
+		"yomigana": "なつご",
+		"kyukana": "",
+		"bodai": [
+			"二番蚕"
+		]
+	},
+	{
+		"kigo": "夏衣",
+		"yomigana": "なつごろも",
+		"kyukana": "",
+		"bodai": [
+			"夏衣",
+			"夏着",
+			"夏物"
+		]
+	},
+	{
+		"kigo": "夏座敷",
+		"yomigana": "なつざしき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏座蒲団",
+		"yomigana": "なつざぶとん",
+		"kyukana": "",
+		"bodai": [
+			"麻座蒲団",
+			"藺座蒲団",
+			"革座蒲団"
+		]
+	},
+	{
+		"kigo": "夏芝居",
+		"yomigana": "なつしばい",
+		"kyukana": "なつしばゐ",
+		"bodai": [
+			"夏狂言",
+			"水狂言",
+			"土用芝居"
+		]
+	},
+	{
+		"kigo": "夏シャツ",
+		"yomigana": "なつしゃつ",
+		"kyukana": "",
+		"bodai": [
+			"白シャツ",
+			"開襟シャツ",
+			"アロハシャツ"
+		]
+	},
+	{
+		"kigo": "夏足袋",
+		"yomigana": "なつたび",
+		"kyukana": "",
+		"bodai": [
+			"単足袋"
+		]
+	},
+	{
+		"kigo": "夏大根",
+		"yomigana": "なつだいこん",
+		"kyukana": "",
+		"bodai": [
+			"なつだいこ"
+		]
+	},
+	{
+		"kigo": "夏燕",
+		"yomigana": "なつつばめ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏手袋",
+		"yomigana": "なつてぶくろ",
+		"kyukana": "",
+		"bodai": [
+			"網手袋",
+			"レース手袋"
+		]
+	},
+	{
+		"kigo": "夏葱",
+		"yomigana": "なつねぎ",
+		"kyukana": "",
+		"bodai": [
+			"刈葱"
+		]
+	},
+	{
+		"kigo": "夏野",
+		"yomigana": "なつの",
+		"kyukana": "",
+		"bodai": [
+			"夏野原",
+			"青野"
+		]
+	},
+	{
+		"kigo": "夏の暁",
+		"yomigana": "なつのあかつき",
+		"kyukana": "",
+		"bodai": [
+			"夏暁",
+			"夏の夜明",
+			"夏の朝"
+		]
+	},
+	{
+		"kigo": "夏の雨",
+		"yomigana": "なつのあめ",
+		"kyukana": "",
+		"bodai": [
+			"夏雨",
+			"緑雨"
+		]
+	},
+	{
+		"kigo": "夏の海",
+		"yomigana": "なつのうみ",
+		"kyukana": "",
+		"bodai": [
+			"夏の波",
+			"夏濤",
+			"夏の浜"
+		]
+	},
+	{
+		"kigo": "夏の風邪",
+		"yomigana": "なつのかぜ",
+		"kyukana": "",
+		"bodai": [
+			"夏風邪"
+		]
+	},
+	{
+		"kigo": "夏の川",
+		"yomigana": "なつのかわ",
+		"kyukana": "なつのかは",
+		"bodai": [
+			"夏川",
+			"夏河原"
+		]
+	},
+	{
+		"kigo": "夏の雲",
+		"yomigana": "なつのくも",
+		"kyukana": "",
+		"bodai": [
+			"夏雲"
+		]
+	},
+	{
+		"kigo": "夏の潮",
+		"yomigana": "なつのしお",
+		"kyukana": "なつのしほ",
+		"bodai": [
+			"夏潮",
+			"青葉潮",
+			"青潮"
+		]
+	},
+	{
+		"kigo": "夏の空",
+		"yomigana": "なつのそら",
+		"kyukana": "",
+		"bodai": [
+			"夏空",
+			"夏の天",
+			"夏天"
+		]
+	},
+	{
+		"kigo": "夏の蝶",
+		"yomigana": "なつのちょう",
+		"kyukana": "なつのてふ",
+		"bodai": [
+			"夏蝶",
+			"梅雨の蝶",
+			"揚羽蝶"
+		]
+	},
+	{
+		"kigo": "夏の月",
+		"yomigana": "なつのつき",
+		"kyukana": "",
+		"bodai": [
+			"月涼し",
+			"梅雨の月"
+		]
+	},
+	{
+		"kigo": "夏の果",
+		"yomigana": "なつのはて",
+		"kyukana": "",
+		"bodai": [
+			"夏果つ",
+			"夏終る",
+			"夏行く",
+			"夏尽く",
+			"夏惜しむ"
+		]
+	},
+	{
+		"kigo": "夏の日",
+		"yomigana": "なつのひ",
+		"kyukana": "",
+		"bodai": [
+			"夏日",
+			"夏日影"
+		]
+	},
+	{
+		"kigo": "夏の燈",
+		"yomigana": "なつのひ",
+		"kyukana": "",
+		"bodai": [
+			"夏ともし",
+			"燈涼し"
+		]
+	},
+	{
+		"kigo": "夏の星",
+		"yomigana": "なつのほし",
+		"kyukana": "",
+		"bodai": [
+			"夏星",
+			"星涼し",
+			"梅雨の星",
+			"旱星",
+			"麦星"
+		]
+	},
+	{
+		"kigo": "夏の虫",
+		"yomigana": "なつのむし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏の山",
+		"yomigana": "なつのやま",
+		"kyukana": "",
+		"bodai": [
+			"夏山",
+			"夏嶺",
+			"青嶺"
+		]
+	},
+	{
+		"kigo": "夏の夕",
+		"yomigana": "なつのゆう",
+		"kyukana": "なつのゆふ",
+		"bodai": [
+			"夏夕",
+			"夏の暮"
+		]
+	},
+	{
+		"kigo": "夏の夜",
+		"yomigana": "なつのよ",
+		"kyukana": "",
+		"bodai": [
+			"夜半の夏",
+			"夏の宵"
+		]
+	},
+	{
+		"kigo": "夏暖簾",
+		"yomigana": "なつのれん",
+		"kyukana": "",
+		"bodai": [
+			"麻暖簾"
+		]
+	},
+	{
+		"kigo": "夏萩",
+		"yomigana": "なつはぎ",
+		"kyukana": "",
+		"bodai": [
+			"青萩"
+		]
+	},
+	{
+		"kigo": "夏羽織",
+		"yomigana": "なつばおり",
+		"kyukana": "",
+		"bodai": [
+			"絽羽織",
+			"紗羽織",
+			"単羽織",
+			"薄羽織"
+		]
+	},
+	{
+		"kigo": "夏袴",
+		"yomigana": "なつばかま",
+		"kyukana": "",
+		"bodai": [
+			"絽袴",
+			"麻袴",
+			"単袴"
+		]
+	},
+	{
+		"kigo": "夏場所",
+		"yomigana": "なつばしょ",
+		"kyukana": "",
+		"bodai": [
+			"五月場所"
+		]
+	},
+	{
+		"kigo": "夏服",
+		"yomigana": "なつふく",
+		"kyukana": "",
+		"bodai": [
+			"白服",
+			"麻服"
+		]
+	},
+	{
+		"kigo": "夏蒲団",
+		"yomigana": "なつぶとん",
+		"kyukana": "",
+		"bodai": [
+			"夏衾",
+			"麻蒲団",
+			"夏掛"
+		]
+	},
+	{
+		"kigo": "夏遍路",
+		"yomigana": "なつへんろ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏帽子",
+		"yomigana": "なつぼうし",
+		"kyukana": "",
+		"bodai": [
+			"夏帽",
+			"麦稈帽子"
+		]
+	},
+	{
+		"kigo": "夏めく",
+		"yomigana": "なつめく",
+		"kyukana": "",
+		"bodai": [
+			"夏きざす"
+		]
+	},
+	{
+		"kigo": "夏館",
+		"yomigana": "なつやかた",
+		"kyukana": "",
+		"bodai": [
+			"夏邸",
+			"夏の宿"
+		]
+	},
+	{
+		"kigo": "夏休み",
+		"yomigana": "なつやすみ",
+		"kyukana": "",
+		"bodai": [
+			"暑中休み",
+			"暑中休暇"
+		]
+	},
+	{
+		"kigo": "夏瘦",
+		"yomigana": "なつやせ",
+		"kyukana": "",
+		"bodai": [
+			"夏負け",
+			"夏やつれ"
+		]
+	},
+	{
+		"kigo": "夏蓬",
+		"yomigana": "なつよもぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏料理",
+		"yomigana": "なつりょうり",
+		"kyukana": "なつれうり",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夏炉",
+		"yomigana": "なつろ",
+		"kyukana": "",
+		"bodai": [
+			"夏の炉"
+		]
+	},
+	{
+		"kigo": "夏蕨",
+		"yomigana": "なつわらび",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鯰",
+		"yomigana": "なまず",
+		"kyukana": "なまづ",
+		"bodai": [
+			"梅雨鯰",
+			"ごみ鯰"
+		]
+	},
+	{
+		"kigo": "蛞蝓",
+		"yomigana": "なめくじ",
+		"kyukana": "なめくぢ",
+		"bodai": [
+			"なめくじり",
+			"なめくじら"
+		]
+	},
+	{
+		"kigo": "業平忌",
+		"yomigana": "なりひらき",
+		"kyukana": "",
+		"bodai": [
+			"在五忌"
+		]
+	},
+	{
+		"kigo": "南天の花",
+		"yomigana": "なんてんのはな",
+		"kyukana": "",
+		"bodai": [
+			"花南天"
+		]
+	},
+	{
+		"kigo": "濁り鮒",
+		"yomigana": "にごりぶな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "西日",
+		"yomigana": "にしび",
+		"kyukana": "",
+		"bodai": [
+			"大西日"
+		]
+	},
+	{
+		"kigo": "虹",
+		"yomigana": "にじ",
+		"kyukana": "",
+		"bodai": [
+			"朝虹",
+			"夕虹",
+			"二重虹"
+		]
+	},
+	{
+		"kigo": "日日草",
+		"yomigana": "にちにちそう",
+		"kyukana": "にちにちさう",
+		"bodai": [
+			"日日花"
+		]
+	},
+	{
+		"kigo": "日射病",
+		"yomigana": "にっしゃびょう",
+		"kyukana": "につしやびやう",
+		"bodai": [
+			"熱射病"
+		]
+	},
+	{
+		"kigo": "入梅",
+		"yomigana": "にゅうばい",
+		"kyukana": "にふばい",
+		"bodai": [
+			"梅雨入り",
+			"梅雨に入る"
+		]
+	},
+	{
+		"kigo": "韮の花",
+		"yomigana": "にらのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "捩花",
+		"yomigana": "ねじばな",
+		"kyukana": "ねぢばな",
+		"bodai": [
+			"もぢばな",
+			"ねぢればな",
+			"もぢずり",
+			"文字摺草"
+		]
+	},
+	{
+		"kigo": "熱帯魚",
+		"yomigana": "ねったいぎょ",
+		"kyukana": "ねつたいぎよ",
+		"bodai": [
+			"闘魚",
+			"天使魚"
+		]
+	},
+	{
+		"kigo": "寝冷え",
+		"yomigana": "ねびえ",
+		"kyukana": "",
+		"bodai": [
+			"寝冷子"
+		]
+	},
+	{
+		"kigo": "合歓の花",
+		"yomigana": "ねむのはな",
+		"kyukana": "",
+		"bodai": [
+			"ねぶの花",
+			"花合歓"
+		]
+	},
+	{
+		"kigo": "練供養",
+		"yomigana": "ねりくよう",
+		"kyukana": "ねりくやう",
+		"bodai": [
+			"当麻練供養",
+			"当麻法事",
+			"来迎会",
+			"迎接会",
+			"曼荼羅会"
+		]
+	},
+	{
+		"kigo": "凌霄の花",
+		"yomigana": "のうぜんのはな",
+		"kyukana": "",
+		"bodai": [
+			"凌霄",
+			"のうぜんかずら"
+		]
+	},
+	{
+		"kigo": "幟",
+		"yomigana": "のぼり",
+		"kyukana": "",
+		"bodai": [
+			"五月幟",
+			"座敷幟",
+			"初幟"
+		]
+	},
+	{
+		"kigo": "野馬追",
+		"yomigana": "のまおい",
+		"kyukana": "のまおひ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蚤",
+		"yomigana": "のみ",
+		"kyukana": "",
+		"bodai": [
+			"蚤の跡"
+		]
+	},
+	{
+		"kigo": "羽蟻",
+		"yomigana": "はあり",
+		"kyukana": "",
+		"bodai": [
+			"飛蟻"
+		]
+	},
+	{
+		"kigo": "ハイビスカス",
+		"yomigana": "はいびすかす",
+		"kyukana": "",
+		"bodai": [
+			"仏桑花",
+			"ぼさつばな",
+			"琉球むくげ"
+		]
+	},
+	{
+		"kigo": "蠅",
+		"yomigana": "はえ",
+		"kyukana": "はへ",
+		"bodai": [
+			"家蠅",
+			"五月蠅（さばえ）",
+			"青蠅",
+			"金蠅",
+			"銀蠅"
+		]
+	},
+	{
+		"kigo": "蠅取",
+		"yomigana": "はえとり",
+		"kyukana": "はへとり",
+		"bodai": [
+			"蠅叩",
+			"蠅打",
+			"蠅捕器",
+			"蠅捕リボン",
+			"蠅捕紙",
+			"蠅捕瓶"
+		]
+	},
+	{
+		"kigo": "蠅虎",
+		"yomigana": "はえとりぐも",
+		"kyukana": "はへとりぐも",
+		"bodai": [
+			"蠅捕蜘蛛"
+		]
+	},
+	{
+		"kigo": "蠅除",
+		"yomigana": "はえよけ",
+		"kyukana": "はへよけ",
+		"bodai": [
+			"蠅覆",
+			"蠅帳",
+			"蠅入らず"
+		]
+	},
+	{
+		"kigo": "博多祇園山笠",
+		"yomigana": "はかたぎおんやまかさ",
+		"kyukana": "はかたぎをんやまかさ",
+		"bodai": [
+			"山笠",
+			"博多祭"
+		]
+	},
+	{
+		"kigo": "薄暑",
+		"yomigana": "はくしょ",
+		"kyukana": "はくしよ",
+		"bodai": [
+			"薄暑光"
+		]
+	},
+	{
+		"kigo": "白夜",
+		"yomigana": "はくや",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "箱庭",
+		"yomigana": "はこにわ",
+		"kyukana": "はこには",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "箱眼鏡",
+		"yomigana": "はこめがね",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "葉桜",
+		"yomigana": "はざくら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "端居",
+		"yomigana": "はしい",
+		"kyukana": "はしゐ",
+		"bodai": [
+			"夕端居"
+		]
+	},
+	{
+		"kigo": "蓮の浮葉",
+		"yomigana": "はすのうきは",
+		"kyukana": "",
+		"bodai": [
+			"浮葉",
+			"蓮の葉"
+		]
+	},
+	{
+		"kigo": "蓮の花",
+		"yomigana": "はすのはな",
+		"kyukana": "",
+		"bodai": [
+			"はちす",
+			"白蓮",
+			"紅蓮",
+			"蓮華"
+		]
+	},
+	{
+		"kigo": "蓮見",
+		"yomigana": "はすみ",
+		"kyukana": "",
+		"bodai": [
+			"蓮見舟"
+		]
+	},
+	{
+		"kigo": "巴旦杏",
+		"yomigana": "はたんきょう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "裸",
+		"yomigana": "はだか",
+		"kyukana": "",
+		"bodai": [
+			"素裸",
+			"丸裸",
+			"裸子"
+		]
+	},
+	{
+		"kigo": "跣足",
+		"yomigana": "はだし",
+		"kyukana": "",
+		"bodai": [
+			"跣",
+			"素足"
+		]
+	},
+	{
+		"kigo": "肌脱",
+		"yomigana": "はだぬぎ",
+		"kyukana": "",
+		"bodai": [
+			"片肌脱",
+			"諸肌脱"
+		]
+	},
+	{
+		"kigo": "麨",
+		"yomigana": "はったい",
+		"kyukana": "",
+		"bodai": [
+			"麦こがし",
+			"麦炒粉",
+			"麦香煎"
+		]
+	},
+	{
+		"kigo": "初鰹",
+		"yomigana": "はつがつお",
+		"kyukana": "はつがつを",
+		"bodai": [
+			"初松魚"
+		]
+	},
+	{
+		"kigo": "花氷",
+		"yomigana": "はなごおり",
+		"kyukana": "はなごほり",
+		"bodai": [
+			"氷柱"
+		]
+	},
+	{
+		"kigo": "花茣蓙",
+		"yomigana": "はなござ",
+		"kyukana": "",
+		"bodai": [
+			"絵茣蓙"
+		]
+	},
+	{
+		"kigo": "花菖蒲",
+		"yomigana": "はなしょうぶ",
+		"kyukana": "",
+		"bodai": [
+			"白菖蒲",
+			"菖蒲園",
+			"菖蒲田"
+		]
+	},
+	{
+		"kigo": "花橘",
+		"yomigana": "はなたちばな",
+		"kyukana": "",
+		"bodai": [
+			"橘の花",
+			"右近の橘"
+		]
+	},
+	{
+		"kigo": "花火",
+		"yomigana": "はなび",
+		"kyukana": "",
+		"bodai": [
+			"煙火",
+			"打揚花火",
+			"仕掛花火",
+			"線香花火",
+			"手花火",
+			"春花火",
+			"遠花火",
+			"花火舟",
+			"花火見"
+		]
+	},
+	{
+		"kigo": "羽抜鳥",
+		"yomigana": "はぬけどり",
+		"kyukana": "",
+		"bodai": [
+			"羽抜鶏"
+		]
+	},
+	{
+		"kigo": "帚木",
+		"yomigana": "ははきぎ",
+		"kyukana": "",
+		"bodai": [
+			"ははきぐさ"
+		]
+	},
+	{
+		"kigo": "母の日",
+		"yomigana": "ははのひ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "浜豌豆",
+		"yomigana": "はまえんどう",
+		"kyukana": "はまゑんどう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "はまごう",
+		"yomigana": "はまごう",
+		"kyukana": "",
+		"bodai": [
+			"はまぼう"
+		]
+	},
+	{
+		"kigo": "玫瑰",
+		"yomigana": "はまなす",
+		"kyukana": "",
+		"bodai": [
+			"浜梨、玫瑰の実、実玫瑰"
+		]
+	},
+	{
+		"kigo": "浜昼顔",
+		"yomigana": "はまひるがお",
+		"kyukana": "はまひるがほ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "浜防風",
+		"yomigana": "はまぼうふう",
+		"kyukana": "はまばうふう",
+		"bodai": [
+			"防風"
+		]
+	},
+	{
+		"kigo": "浜木綿の花",
+		"yomigana": "はまゆふのはな",
+		"kyukana": "",
+		"bodai": [
+			"浜万年青"
+		]
+	},
+	{
+		"kigo": "鱧",
+		"yomigana": "はも",
+		"kyukana": "",
+		"bodai": [
+			"水鱧",
+			"鱧の皮"
+		]
+	},
+	{
+		"kigo": "葉柳",
+		"yomigana": "はやなぎ",
+		"kyukana": "",
+		"bodai": [
+			"夏柳",
+			"柳茂る"
+		]
+	},
+	{
+		"kigo": "ハンカチの花",
+		"yomigana": "はんかちのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "半夏生",
+		"yomigana": "はんげしょう",
+		"kyukana": "はんげしやう",
+		"bodai": [
+			"半夏",
+			"半夏雨"
+		]
+	},
+	{
+		"kigo": "半夏生草",
+		"yomigana": "はんげしょうぐさ",
+		"kyukana": "",
+		"bodai": [
+			"片白草"
+		]
+	},
+	{
+		"kigo": "半ズボン",
+		"yomigana": "はんずぼん",
+		"kyukana": "",
+		"bodai": [
+			"短パン",
+			"ショートパンツ"
+		]
+	},
+	{
+		"kigo": "斑猫",
+		"yomigana": "はんみょう",
+		"kyukana": "はんめう",
+		"bodai": [
+			"道をしえ"
+		]
+	},
+	{
+		"kigo": "ハンモック",
+		"yomigana": "はんもっく",
+		"kyukana": "",
+		"bodai": [
+			"吊床",
+			"寝網"
+		]
+	},
+	{
+		"kigo": "芭蕉の花",
+		"yomigana": "ばしょうのはな",
+		"kyukana": "ばせうのはな",
+		"bodai": [
+			"花芭蕉"
+		]
+	},
+	{
+		"kigo": "バナナ",
+		"yomigana": "ばなな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "薔薇",
+		"yomigana": "ばら",
+		"kyukana": "",
+		"bodai": [
+			"薔薇（そうび）",
+			"薔薇園"
+		]
+	},
+	{
+		"kigo": "茨の花",
+		"yomigana": "ばらのはな",
+		"kyukana": "",
+		"bodai": [
+			"花茨",
+			"野茨の花",
+			"花うばら"
+		]
+	},
+	{
+		"kigo": "鷭",
+		"yomigana": "ばん",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "晩夏",
+		"yomigana": "ばんか",
+		"kyukana": "",
+		"bodai": [
+			"季夏",
+			"夏深し",
+			"晩夏光"
+		]
+	},
+	{
+		"kigo": "万緑",
+		"yomigana": "ばんりょく",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "パイナップル",
+		"yomigana": "ぱいなっぷる",
+		"kyukana": "",
+		"bodai": [
+			"鳳梨（ほうり）",
+			"あななす"
+		]
+	},
+	{
+		"kigo": "パセリ",
+		"yomigana": "ぱせり",
+		"kyukana": "",
+		"bodai": [
+			"オランダゼリ"
+		]
+	},
+	{
+		"kigo": "パリ祭",
+		"yomigana": "ぱりさい",
+		"kyukana": "",
+		"bodai": [
+			"巴里祭",
+			"パリー祭"
+		]
+	},
+	{
+		"kigo": "射干",
+		"yomigana": "ひおうぎ",
+		"kyukana": "ひあふぎ",
+		"bodai": [
+			"桧扇",
+			"うばたま"
+		]
+	},
+	{
+		"kigo": "日傘",
+		"yomigana": "ひがさ",
+		"kyukana": "",
+		"bodai": [
+			"ひからかさ",
+			"絵日傘",
+			"パラソル"
+		]
+	},
+	{
+		"kigo": "日雀",
+		"yomigana": "ひがら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蟇",
+		"yomigana": "ひきがえる",
+		"kyukana": "ひきがへる",
+		"bodai": [
+			"蟾蜍",
+			"蟾",
+			"蝦蟇",
+			"がまがへる"
+		]
+	},
+	{
+		"kigo": "緋鯉",
+		"yomigana": "ひごい",
+		"kyukana": "ひごひ",
+		"bodai": [
+			"色鯉",
+			"白鯉",
+			"錦鯉"
+		]
+	},
+	{
+		"kigo": "日盛",
+		"yomigana": "ひざかり",
+		"kyukana": "",
+		"bodai": [
+			"日の盛り"
+		]
+	},
+	{
+		"kigo": "菱の花",
+		"yomigana": "ひしのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "避暑",
+		"yomigana": "ひしょ",
+		"kyukana": "ひしよ",
+		"bodai": [
+			"避暑地",
+			"避暑の宿"
+		]
+	},
+	{
+		"kigo": "旱",
+		"yomigana": "ひでり",
+		"kyukana": "",
+		"bodai": [
+			"旱天",
+			"旱魃",
+			"大旱",
+			"旱畑",
+			"旱田",
+			"旱空"
+		]
+	},
+	{
+		"kigo": "単衣",
+		"yomigana": "ひとえ",
+		"kyukana": "ひとへ",
+		"bodai": [
+			"単物"
+		]
+	},
+	{
+		"kigo": "一つ葉",
+		"yomigana": "ひとつば",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "火取虫",
+		"yomigana": "ひとりむし",
+		"kyukana": "",
+		"bodai": [
+			"灯取虫",
+			"灯虫",
+			"灯蛾",
+			"燭蛾",
+			"火蛾",
+			"蛾"
+		]
+	},
+	{
+		"kigo": "雛罌栗",
+		"yomigana": "ひなげし",
+		"kyukana": "",
+		"bodai": [
+			"虞美人草",
+			"ポピー",
+			"こくりこ",
+			"アマポーラ"
+		]
+	},
+	{
+		"kigo": "日向水",
+		"yomigana": "ひなたみず",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "向日葵",
+		"yomigana": "ひまわり",
+		"kyukana": "ひまはり",
+		"bodai": [
+			"日車",
+			"日輪草",
+			"天蓋花",
+			"天竺葵"
+		]
+	},
+	{
+		"kigo": "姫女菀",
+		"yomigana": "ひめじょおん",
+		"kyukana": "",
+		"bodai": [
+			"柳葉姫菊",
+			"鉄道草"
+		]
+	},
+	{
+		"kigo": "百日草",
+		"yomigana": "ひゃくにちそう",
+		"kyukana": "ひゃくにちさう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "日焼",
+		"yomigana": "ひやけ",
+		"kyukana": "",
+		"bodai": [
+			"潮焼"
+		]
+	},
+	{
+		"kigo": "冷酒",
+		"yomigana": "ひやざけ",
+		"kyukana": "",
+		"bodai": [
+			"冷酒",
+			"冷し酒"
+		]
+	},
+	{
+		"kigo": "冷し瓜",
+		"yomigana": "ひやしうり",
+		"kyukana": "",
+		"bodai": [
+			"瓜冷す",
+			"冷し西瓜"
+		]
+	},
+	{
+		"kigo": "冷し中華",
+		"yomigana": "ひやしちゅうか",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "冷汁",
+		"yomigana": "ひやしる",
+		"kyukana": "",
+		"bodai": [
+			"冷や汁",
+			"ひやじる"
+		]
+	},
+	{
+		"kigo": "冷索麺",
+		"yomigana": "ひやそうめん",
+		"kyukana": "ひやさうめん",
+		"bodai": [
+			"冷素麺",
+			"索麺冷す"
+		]
+	},
+	{
+		"kigo": "冷麦",
+		"yomigana": "ひやむぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "冷奴",
+		"yomigana": "ひややっこ",
+		"kyukana": "ひややつこ",
+		"bodai": [
+			"冷豆腐",
+			""
+		]
+	},
+	{
+		"kigo": "雹",
+		"yomigana": "ひょう",
+		"kyukana": "ひよう",
+		"bodai": [
+			"氷雨"
+		]
+	},
+	{
+		"kigo": "氷菓",
+		"yomigana": "ひょうか",
+		"kyukana": "ひようくわ",
+		"bodai": [
+			"氷菓子",
+			"アイスキャンデー",
+			"アイスクリーム",
+			"ソフトクリーム"
+		]
+	},
+	{
+		"kigo": "日除",
+		"yomigana": "ひよけ",
+		"kyukana": "",
+		"bodai": [
+			"日覆"
+		]
+	},
+	{
+		"kigo": "蛭",
+		"yomigana": "ひる",
+		"kyukana": "",
+		"bodai": [
+			"山蛭",
+			"馬蛭"
+		]
+	},
+	{
+		"kigo": "昼顔",
+		"yomigana": "ひるがお",
+		"kyukana": "ひるがほ",
+		"bodai": [
+			"鼓子草"
+		]
+	},
+	{
+		"kigo": "昼寝",
+		"yomigana": "ひるね",
+		"kyukana": "",
+		"bodai": [
+			"午睡",
+			"三尺寝",
+			"昼寝起",
+			"昼寝覚"
+		]
+	},
+	{
+		"kigo": "蛭蓆",
+		"yomigana": "ひるむしろ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "枇杷",
+		"yomigana": "びわ",
+		"kyukana": "",
+		"bodai": [
+			"枇杷の実"
+		]
+	},
+	{
+		"kigo": "ビーチパラソル",
+		"yomigana": "びーちぱらそる",
+		"kyukana": "",
+		"bodai": [
+			"砂日傘",
+			"浜日傘",
+			"海岸日傘"
+		]
+	},
+	{
+		"kigo": "ビール",
+		"yomigana": "びーる",
+		"kyukana": "",
+		"bodai": [
+			"麦酒",
+			"黒ビール",
+			"生ビール",
+			"ビヤホール",
+			"ビヤガーデン"
+		]
+	},
+	{
+		"kigo": "風知草",
+		"yomigana": "ふうちそう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "風蘭",
+		"yomigana": "ふうらん",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "風鈴",
+		"yomigana": "ふうりん",
+		"kyukana": "",
+		"bodai": [
+			"風鈴売"
+		]
+	},
+	{
+		"kigo": "蕗",
+		"yomigana": "ふき",
+		"kyukana": "",
+		"bodai": [
+			"蕗の葉",
+			"蕗畑",
+			"伽羅蕗"
+		]
+	},
+	{
+		"kigo": "噴井",
+		"yomigana": "ふきい",
+		"kyukana": "ふきゐ",
+		"bodai": [
+			"噴井（ふけい）"
+		]
+	},
+	{
+		"kigo": "袋掛",
+		"yomigana": "ふくろかけ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "袋角",
+		"yomigana": "ふくろづの",
+		"kyukana": "",
+		"bodai": [
+			"鹿の袋角",
+			"鹿の若角"
+		]
+	},
+	{
+		"kigo": "不死男忌",
+		"yomigana": "ふじおき",
+		"kyukana": "ふじをき",
+		"bodai": [
+			"甘露忌"
+		]
+	},
+	{
+		"kigo": "富士詣",
+		"yomigana": "ふじもうで",
+		"kyukana": "ふじまうで",
+		"bodai": [
+			"富士道者",
+			"富士行者",
+			"富士禅定",
+			"山上詣",
+			"富士講",
+			"浅間講"
+		]
+	},
+	{
+		"kigo": "太藺",
+		"yomigana": "ふとい",
+		"kyukana": "ふとゐ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "船遊び",
+		"yomigana": "ふなあそび",
+		"kyukana": "",
+		"bodai": [
+			"船遊山",
+			"遊船",
+			"遊び船"
+		]
+	},
+	{
+		"kigo": "船虫",
+		"yomigana": "ふなむし",
+		"kyukana": "",
+		"bodai": [
+			"舟虫"
+		]
+	},
+	{
+		"kigo": "船料理",
+		"yomigana": "ふなりょうり",
+		"kyukana": "ふなれうり",
+		"bodai": [
+			"生簀船",
+			"船生洲",
+			"生洲料理"
+		]
+	},
+	{
+		"kigo": "海蘿",
+		"yomigana": "ふのり",
+		"kyukana": "",
+		"bodai": [
+			"布海苔",
+			"海蘿干す"
+		]
+	},
+	{
+		"kigo": "風炉茶",
+		"yomigana": "ふろちゃ",
+		"kyukana": "ふろちや",
+		"bodai": [
+			"風炉点前"
+		]
+	},
+	{
+		"kigo": "噴水",
+		"yomigana": "ふんすい",
+		"kyukana": "",
+		"bodai": [
+			"噴上げ"
+		]
+	},
+	{
+		"kigo": "仏法僧",
+		"yomigana": "ぶっぽうそう",
+		"kyukana": "ぶつぽふそう",
+		"bodai": [
+			"姿の仏法僧"
+		]
+	},
+	{
+		"kigo": "蚋",
+		"yomigana": "ぶよ",
+		"kyukana": "",
+		"bodai": [
+			"蟆子",
+			"ぷよ",
+			"ぶゆ"
+		]
+	},
+	{
+		"kigo": "ブーゲンビリア",
+		"yomigana": "ぶーげんびりあ",
+		"kyukana": "",
+		"bodai": [
+			"いかだかずら"
+		]
+	},
+	{
+		"kigo": "プール",
+		"yomigana": "ぷーる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "糸瓜の花",
+		"yomigana": "へちまのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蛇",
+		"yomigana": "へび",
+		"kyukana": "",
+		"bodai": [
+			"くちなは",
+			"ながむし",
+			"青大将",
+			"山棟蛇",
+			"縞蛇",
+			"鳥蛇"
+		]
+	},
+	{
+		"kigo": "蛇苺",
+		"yomigana": "へびいちご",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蛇衣を脱ぐ",
+		"yomigana": "へびきぬをぬぐ",
+		"kyukana": "",
+		"bodai": [
+			"蛇の衣",
+			"蛇の殻",
+			"蛇の蛻",
+			"蛇皮を脱ぐ"
+		]
+	},
+	{
+		"kigo": "紅花",
+		"yomigana": "べにばな",
+		"kyukana": "",
+		"bodai": [
+			"紅の花",
+			"紅藍花",
+			"紅粉花",
+			"末摘花"
+		]
+	},
+	{
+		"kigo": "べら",
+		"yomigana": "べら",
+		"kyukana": "",
+		"bodai": [
+			"べら釣"
+		]
+	},
+	{
+		"kigo": "鬼灯市",
+		"yomigana": "ほおずきいち",
+		"kyukana": "ほほづきいち",
+		"bodai": [
+			"酸漿市",
+			"四万六千日",
+			"千日詣"
+		]
+	},
+	{
+		"kigo": "朴の花",
+		"yomigana": "ほおのはな",
+		"kyukana": "",
+		"bodai": [
+			"厚朴の花",
+			"朴散華"
+		]
+	},
+	{
+		"kigo": "穂肥",
+		"yomigana": "ほごえ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "干飯",
+		"yomigana": "ほしいい",
+		"kyukana": "ほしいひ",
+		"bodai": [
+			"乾飯"
+		]
+	},
+	{
+		"kigo": "干草",
+		"yomigana": "ほしくさ",
+		"kyukana": "",
+		"bodai": [
+			"草干す",
+			"刈干"
+		]
+	},
+	{
+		"kigo": "帆立貝",
+		"yomigana": "ほたてがい",
+		"kyukana": "ほたてがひ",
+		"bodai": [
+			"海扇"
+		]
+	},
+	{
+		"kigo": "蛍",
+		"yomigana": "ほたる",
+		"kyukana": "",
+		"bodai": [
+			"初蛍",
+			"蛍火",
+			"源氏蛍",
+			"夕蛍",
+			"蛍合戦"
+		]
+	},
+	{
+		"kigo": "蛍籠",
+		"yomigana": "ほたるかご",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "蛍狩",
+		"yomigana": "ほたるがり",
+		"kyukana": "",
+		"bodai": [
+			"蛍見",
+			"蛍舟"
+		]
+	},
+	{
+		"kigo": "蛍袋",
+		"yomigana": "ほたるぶくろ",
+		"kyukana": "",
+		"bodai": [
+			"釣鐘草",
+			"提燈花",
+			"風鈴草"
+		]
+	},
+	{
+		"kigo": "捕虫類",
+		"yomigana": "ほちゅうるい",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "布袋草",
+		"yomigana": "ほていそう",
+		"kyukana": "ほていさう",
+		"bodai": [
+			"布袋葵"
+		]
+	},
+	{
+		"kigo": "時鳥",
+		"yomigana": "ほととぎす",
+		"kyukana": "",
+		"bodai": [
+			"子規",
+			"杜鵑",
+			"蜀魂",
+			"杜宇",
+			"不如帰"
+		]
+	},
+	{
+		"kigo": "鬼灯の花",
+		"yomigana": "ほほづきのはな",
+		"kyukana": "",
+		"bodai": [
+			"酸漿の花"
+		]
+	},
+	{
+		"kigo": "穂絮",
+		"yomigana": "ほわた",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "茅舎忌",
+		"yomigana": "ぼうしゃき",
+		"kyukana": "ばうしやき",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "芒種",
+		"yomigana": "ぼうしゅ",
+		"kyukana": "ばうしゅ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "孑孒",
+		"yomigana": "ぼうふら",
+		"kyukana": "",
+		"bodai": [
+			"ぼうふり",
+			"棒振虫"
+		]
+	},
+	{
+		"kigo": "牡丹",
+		"yomigana": "ぼたん",
+		"kyukana": "",
+		"bodai": [
+			"ぼうたん",
+			"富貴草",
+			"白（はく）牡丹",
+			"緋牡丹",
+			"黒牡丹",
+			"牡丹園"
+		]
+	},
+	{
+		"kigo": "ボート",
+		"yomigana": "ぼーと",
+		"kyukana": "",
+		"bodai": [
+			"貸ボート"
+		]
+	},
+	{
+		"kigo": "鼓虫",
+		"yomigana": "まいまい",
+		"kyukana": "",
+		"bodai": [
+			"まひまひ",
+			"水澄"
+		]
+	},
+	{
+		"kigo": "蠛蠓",
+		"yomigana": "まくなぎ",
+		"kyukana": "",
+		"bodai": [
+			"めまとひ",
+			"糠蚊"
+		]
+	},
+	{
+		"kigo": "甜瓜",
+		"yomigana": "まくわうり",
+		"kyukana": "まくはうり",
+		"bodai": [
+			"真桑"
+		]
+	},
+	{
+		"kigo": "真菰",
+		"yomigana": "まこも",
+		"kyukana": "",
+		"bodai": [
+			"真菰刈"
+		]
+	},
+	{
+		"kigo": "松落葉",
+		"yomigana": "まつおちば",
+		"kyukana": "",
+		"bodai": [
+			"散松葉"
+		]
+	},
+	{
+		"kigo": "松葉牡丹",
+		"yomigana": "まつばぼたん",
+		"kyukana": "",
+		"bodai": [
+			"日照草",
+			"爪切草"
+		]
+	},
+	{
+		"kigo": "祭",
+		"yomigana": "まつり",
+		"kyukana": "",
+		"bodai": [
+			"夏祭",
+			"祭獅子",
+			"祭太鼓",
+			"祭笛",
+			"祭囃子",
+			"祭堤燈",
+			"祭髪",
+			"祭衣",
+			"宵宮",
+			"夜宮",
+			"山車",
+			"神輿",
+			"渡御",
+			"御旅所",
+			"祭舟"
+		]
+	},
+	{
+		"kigo": "茉莉花",
+		"yomigana": "まつりか",
+		"kyukana": "まつりくわ",
+		"bodai": [
+			"素馨（そけい）",
+			"ジャスミン"
+		]
+	},
+	{
+		"kigo": "蝮",
+		"yomigana": "まむし",
+		"kyukana": "",
+		"bodai": [
+			"蝮蛇",
+			"赤まむし",
+			"蝮捕",
+			"蝮酒"
+		]
+	},
+	{
+		"kigo": "豆蒔く",
+		"yomigana": "まめまく",
+		"kyukana": "",
+		"bodai": [
+			"大豆蒔く",
+			"小豆蒔く",
+			"豆植う"
+		]
+	},
+	{
+		"kigo": "豆飯",
+		"yomigana": "まめめし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "繭",
+		"yomigana": "まゆ",
+		"kyukana": "",
+		"bodai": [
+			"新繭",
+			"白繭",
+			"黄繭",
+			"玉繭",
+			"繭干す",
+			"繭煮る"
+		]
+	},
+	{
+		"kigo": "マンゴー",
+		"yomigana": "まんごー",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "万太郎忌",
+		"yomigana": "まんたろうき",
+		"kyukana": "まんたらうき",
+		"bodai": [
+			"傘雨忌"
+		]
+	},
+	{
+		"kigo": "蜜柑の花",
+		"yomigana": "みかんのはな",
+		"kyukana": "",
+		"bodai": [
+			"花蜜柑"
+		]
+	},
+	{
+		"kigo": "短夜",
+		"yomigana": "みじかよ",
+		"kyukana": "",
+		"bodai": [
+			"明易し",
+			"明早し",
+			"明急ぐ"
+		]
+	},
+	{
+		"kigo": "水葵",
+		"yomigana": "みずあおい",
+		"kyukana": "みづあふひ",
+		"bodai": [
+			"菜葱",
+			"水葱"
+		]
+	},
+	{
+		"kigo": "水遊び",
+		"yomigana": "みずあそび",
+		"kyukana": "みづあそび",
+		"bodai": [
+			"水掛合"
+		]
+	},
+	{
+		"kigo": "水中り",
+		"yomigana": "みずあたり",
+		"kyukana": "みづあたり",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水機関",
+		"yomigana": "みずからくり",
+		"kyukana": "みづからくり",
+		"bodai": [
+			"水からくり"
+		]
+	},
+	{
+		"kigo": "水貝",
+		"yomigana": "みずがい",
+		"kyukana": "みづがひ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水木の花",
+		"yomigana": "みずきのはな",
+		"kyukana": "みづきのはな",
+		"bodai": [
+			"花水木",
+			"水木咲く"
+		]
+	},
+	{
+		"kigo": "水草の花",
+		"yomigana": "みずくさのはな",
+		"kyukana": "みづくさのはな",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水喧嘩",
+		"yomigana": "みずげんか",
+		"kyukana": "みづげんくわ",
+		"bodai": [
+			"水論",
+			"水争"
+		]
+	},
+	{
+		"kigo": "水鉄砲",
+		"yomigana": "みずてっぽう",
+		"kyukana": "みづてつぽう",
+		"bodai": [
+			"水遊び"
+		]
+	},
+	{
+		"kigo": "水芭蕉",
+		"yomigana": "みずばしょう",
+		"kyukana": "みづばせう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水番",
+		"yomigana": "みずばん",
+		"kyukana": "みづばん",
+		"bodai": [
+			"水番小屋",
+			"水守る",
+			"水盗む",
+			"水盗人"
+		]
+	},
+	{
+		"kigo": "水虫",
+		"yomigana": "みずむし",
+		"kyukana": "みづむし",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水羊羹",
+		"yomigana": "みずようかん",
+		"kyukana": "みづやうかん",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "溝浚へ",
+		"yomigana": "みぞさらへ",
+		"kyukana": "",
+		"bodai": [
+			"堰浚へ",
+			"どぶさらひ"
+		]
+	},
+	{
+		"kigo": "蜜豆",
+		"yomigana": "みつまめ",
+		"kyukana": "",
+		"bodai": [
+			"餡蜜"
+		]
+	},
+	{
+		"kigo": "緑",
+		"yomigana": "みどり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "水無月",
+		"yomigana": "みなづき",
+		"kyukana": "",
+		"bodai": [
+			"風待月",
+			"常夏月",
+			"青水無月"
+		]
+	},
+	{
+		"kigo": "南風",
+		"yomigana": "みなみ",
+		"kyukana": "",
+		"bodai": [
+			"南風",
+			"南風",
+			"南吹く",
+			"はえ",
+			"大南風",
+			"海南風",
+			"まぜ",
+			"まじ"
+		]
+	},
+	{
+		"kigo": "三船祭",
+		"yomigana": "みふねまつり",
+		"kyukana": "",
+		"bodai": [
+			"舟遊祭",
+			"扇流し",
+			"西祭"
+		]
+	},
+	{
+		"kigo": "蚯蚓",
+		"yomigana": "みみず",
+		"kyukana": "",
+		"bodai": [
+			"蚯蚓出づ（ず）"
+		]
+	},
+	{
+		"kigo": "都草",
+		"yomigana": "みやこぐさ",
+		"kyukana": "",
+		"bodai": [
+			"黄金花",
+			"烏帽子草"
+		]
+	},
+	{
+		"kigo": "茗荷の子",
+		"yomigana": "みょうがのこ",
+		"kyukana": "めうがのこ",
+		"bodai": [
+			"茗荷汁"
+		]
+	},
+	{
+		"kigo": "百足",
+		"yomigana": "むかで",
+		"kyukana": "",
+		"bodai": [
+			"蜈蚣"
+		]
+	},
+	{
+		"kigo": "麦",
+		"yomigana": "むぎ",
+		"kyukana": "",
+		"bodai": [
+			"大麦",
+			"小麦",
+			"麦の穂",
+			"穂麦",
+			"麦畑"
+		]
+	},
+	{
+		"kigo": "麦打",
+		"yomigana": "むぎうち",
+		"kyukana": "",
+		"bodai": [
+			"麦叩",
+			"麦つき",
+			"麦埃",
+			"麦焼き",
+			""
+		]
+	},
+	{
+		"kigo": "麦刈",
+		"yomigana": "むぎかり",
+		"kyukana": "",
+		"bodai": [
+			"麦車"
+		]
+	},
+	{
+		"kigo": "麦扱",
+		"yomigana": "むぎこき",
+		"kyukana": "",
+		"bodai": [
+			"麦扱機"
+		]
+	},
+	{
+		"kigo": "麦茶",
+		"yomigana": "むぎちゃ",
+		"kyukana": "",
+		"bodai": [
+			"麦湯"
+		]
+	},
+	{
+		"kigo": "麦の秋",
+		"yomigana": "むぎのあき",
+		"kyukana": "",
+		"bodai": [
+			"麦秋",
+			"麦秋"
+		]
+	},
+	{
+		"kigo": "麦の黒穂",
+		"yomigana": "むぎのくろほ",
+		"kyukana": "",
+		"bodai": [
+			"黒穂"
+		]
+	},
+	{
+		"kigo": "麦笛",
+		"yomigana": "むぎぶえ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "麦飯",
+		"yomigana": "むぎめし",
+		"kyukana": "",
+		"bodai": [
+			"すむぎ"
+		]
+	},
+	{
+		"kigo": "麦稈",
+		"yomigana": "むぎわら",
+		"kyukana": "",
+		"bodai": [
+			"麦藁"
+		]
+	},
+	{
+		"kigo": "葎",
+		"yomigana": "むぐら",
+		"kyukana": "",
+		"bodai": [
+			"葎茂る",
+			"八重葎"
+		]
+	},
+	{
+		"kigo": "虫送り",
+		"yomigana": "むしおくり",
+		"kyukana": "",
+		"bodai": [
+			"田虫送",
+			"稲虫送",
+			"虫追い",
+			"虫供養",
+			"実盛祭"
+		]
+	},
+	{
+		"kigo": "むしかりの花",
+		"yomigana": "むしかりのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "虫歯予防デー",
+		"yomigana": "むしばよぼうでー",
+		"kyukana": "",
+		"bodai": [
+			"虫歯の日"
+		]
+	},
+	{
+		"kigo": "虫干",
+		"yomigana": "むしぼし",
+		"kyukana": "",
+		"bodai": [
+			"虫払",
+			"風入れ",
+			"土用干",
+			"曝書"
+		]
+	},
+	{
+		"kigo": "武者人形",
+		"yomigana": "むしゃにんぎょう",
+		"kyukana": "むしやにんぎやう",
+		"bodai": [
+			"五月人形",
+			"兜人形",
+			"飾兜",
+			"武具飾る"
+		]
+	},
+	{
+		"kigo": "村祭",
+		"yomigana": "むらまつり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "飯饐る",
+		"yomigana": "めしすえる",
+		"kyukana": "",
+		"bodai": [
+			"飯の汗"
+		]
+	},
+	{
+		"kigo": "眼白",
+		"yomigana": "めじろ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "目高",
+		"yomigana": "めだか",
+		"kyukana": "",
+		"bodai": [
+			"緋目高",
+			"白目高"
+		]
+	},
+	{
+		"kigo": "メロン",
+		"yomigana": "めろん",
+		"kyukana": "",
+		"bodai": [
+			"マスクメロン",
+			"西洋メロン"
+		]
+	},
+	{
+		"kigo": "藻刈",
+		"yomigana": "もかり",
+		"kyukana": "",
+		"bodai": [
+			"藻刈舟",
+			"刈藻"
+		]
+	},
+	{
+		"kigo": "黐の花",
+		"yomigana": "もちのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "藻の花",
+		"yomigana": "ものはな",
+		"kyukana": "",
+		"bodai": [
+			"花藻"
+		]
+	},
+	{
+		"kigo": "灸花",
+		"yomigana": "やいとばな",
+		"kyukana": "",
+		"bodai": [
+			"へくそかづら"
+		]
+	},
+	{
+		"kigo": "灼く",
+		"yomigana": "やく",
+		"kyukana": "",
+		"bodai": [
+			"熱砂",
+			"熱風",
+			"炎熱"
+		]
+	},
+	{
+		"kigo": "矢車菊",
+		"yomigana": "やぐるまぎく",
+		"kyukana": "",
+		"bodai": [
+			"矢車草"
+		]
+	},
+	{
+		"kigo": "灼け",
+		"yomigana": "やけ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夜光虫",
+		"yomigana": "やこうちゅう",
+		"kyukana": "やくわうちゅう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "八束忌",
+		"yomigana": "やつかき",
+		"kyukana": "",
+		"bodai": [
+			"仮幻忌"
+		]
+	},
+	{
+		"kigo": "簗",
+		"yomigana": "やな",
+		"kyukana": "",
+		"bodai": [
+			"魚簗",
+			"簗さす",
+			"簗打つ",
+			"簗かく",
+			"簗瀬"
+		]
+	},
+	{
+		"kigo": "破れ傘",
+		"yomigana": "やぶれがさ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "山棟蛇",
+		"yomigana": "やまかがし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "山雀",
+		"yomigana": "やまがら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "やませ",
+		"yomigana": "やませ",
+		"kyukana": "",
+		"bodai": [
+			"山背風",
+			"山瀬風"
+		]
+	},
+	{
+		"kigo": "山開",
+		"yomigana": "やまびらき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "山法師の花",
+		"yomigana": "やまぼうしのはな",
+		"kyukana": "",
+		"bodai": [
+			"山帽子",
+			"山桑"
+		]
+	},
+	{
+		"kigo": "天蚕",
+		"yomigana": "やままゆ",
+		"kyukana": "",
+		"bodai": [
+			"山繭",
+			"山蚕"
+		]
+	},
+	{
+		"kigo": "山女",
+		"yomigana": "やまめ",
+		"kyukana": "",
+		"bodai": [
+			"山女釣"
+		]
+	},
+	{
+		"kigo": "楊梅",
+		"yomigana": "やまもも",
+		"kyukana": "",
+		"bodai": [
+			"山桃",
+			"やまうめ"
+		]
+	},
+	{
+		"kigo": "山桜桃の実",
+		"yomigana": "やまもものみ",
+		"kyukana": "",
+		"bodai": [
+			"山桜桃",
+			"英桃（ゆすらうめ）",
+			"ゆすら"
+		]
+	},
+	{
+		"kigo": "守宮",
+		"yomigana": "やもり",
+		"kyukana": "",
+		"bodai": [
+			"壁虎",
+			"家守"
+		]
+	},
+	{
+		"kigo": "夕顔",
+		"yomigana": "ゆうがお",
+		"kyukana": "",
+		"bodai": [
+			"夕顔の花"
+		]
+	},
+	{
+		"kigo": "夕立",
+		"yomigana": "ゆうだち",
+		"kyukana": "ゆふだち",
+		"bodai": [
+			"ゆだち",
+			"よだち",
+			"白雨",
+			"驟雨",
+			"夕立雲",
+			"夕立風"
+		]
+	},
+	{
+		"kigo": "夕凪",
+		"yomigana": "ゆうなぎ",
+		"kyukana": "ゆふなぎ",
+		"bodai": [
+			"夕凪ぐ"
+		]
+	},
+	{
+		"kigo": "夕端居",
+		"yomigana": "ゆうはしい",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夕映",
+		"yomigana": "ゆうばえ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夕焼",
+		"yomigana": "ゆうやけ",
+		"kyukana": "ゆふやけ",
+		"bodai": [
+			"ゆやけ",
+			"夕焼雲",
+			"夕焼空"
+		]
+	},
+	{
+		"kigo": "川床",
+		"yomigana": "ゆか",
+		"kyukana": "",
+		"bodai": [
+			"床",
+			"川床涼み",
+			"納涼川床",
+			"貴船川床",
+			"川床座敷"
+		]
+	},
+	{
+		"kigo": "浴衣",
+		"yomigana": "ゆかた",
+		"kyukana": "",
+		"bodai": [
+			"湯帷子",
+			"初浴衣",
+			"藍浴衣",
+			"古浴衣",
+			"貸浴衣",
+			"宿浴衣"
+		]
+	},
+	{
+		"kigo": "鴨足草",
+		"yomigana": "ゆきのした",
+		"kyukana": "",
+		"bodai": [
+			"虎耳草",
+			"雪の下"
+		]
+	},
+	{
+		"kigo": "柚子の花",
+		"yomigana": "ゆずのはな",
+		"kyukana": "",
+		"bodai": [
+			"柚（ゆ）の花",
+			"花柚子"
+		]
+	},
+	{
+		"kigo": "百合",
+		"yomigana": "ゆり",
+		"kyukana": "",
+		"bodai": [
+			"鬼百合",
+			"姫百合",
+			"鹿の百合",
+			"山百合",
+			"笹百合",
+			"白百合",
+			"透し百合",
+			"鉄砲百合"
+		]
+	},
+	{
+		"kigo": "百合の木",
+		"yomigana": "ゆりのき",
+		"kyukana": "",
+		"bodai": [
+			"ユリノキ",
+			"百合の樹"
+		]
+	},
+	{
+		"kigo": "余花",
+		"yomigana": "よか",
+		"kyukana": "よくわ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "葭切",
+		"yomigana": "よしきり",
+		"kyukana": "",
+		"bodai": [
+			"行々子",
+			"葦雀"
+		]
+	},
+	{
+		"kigo": "葭簀",
+		"yomigana": "よしず",
+		"kyukana": "",
+		"bodai": [
+			"葭簀掛",
+			"葭簀小屋",
+			"葭簀茶屋"
+		]
+	},
+	{
+		"kigo": "葭戸",
+		"yomigana": "よしど",
+		"kyukana": "",
+		"bodai": [
+			"葭障子",
+			"簀戸",
+			"葭屏風"
+		]
+	},
+	{
+		"kigo": "夜濯",
+		"yomigana": "よすすぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夜鷹",
+		"yomigana": "よたか",
+		"kyukana": "",
+		"bodai": [
+			"怪鴟",
+			"蚊吸鳥"
+		]
+	},
+	{
+		"kigo": "夜焚",
+		"yomigana": "よたき",
+		"kyukana": "",
+		"bodai": [
+			"夜焚釣",
+			"夜焚舟"
+		]
+	},
+	{
+		"kigo": "ヨット",
+		"yomigana": "よっと",
+		"kyukana": "",
+		"bodai": [
+			"ヨットハーバー"
+		]
+	},
+	{
+		"kigo": "夜釣",
+		"yomigana": "よづり",
+		"kyukana": "",
+		"bodai": [
+			"夜釣人",
+			"夜釣舟"
+		]
+	},
+	{
+		"kigo": "夜盗虫",
+		"yomigana": "よとうむし",
+		"kyukana": "よたうむし",
+		"bodai": [
+			"やたう",
+			"よたう"
+		]
+	},
+	{
+		"kigo": "呼子鳥",
+		"yomigana": "よぶこどり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夜振",
+		"yomigana": "よぶり",
+		"kyukana": "",
+		"bodai": [
+			"夜振火"
+		]
+	},
+	{
+		"kigo": "夜店",
+		"yomigana": "よみせ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "夜の秋",
+		"yomigana": "よるのあき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "雷鳥",
+		"yomigana": "らいちょう",
+		"kyukana": "らいてう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "辣韮",
+		"yomigana": "らっきょう",
+		"kyukana": "らつきよう",
+		"bodai": [
+			"大韮",
+			"らっきょ",
+			"薤"
+		]
+	},
+	{
+		"kigo": "辣韮漬",
+		"yomigana": "らっきょうづけ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "ラベンダー",
+		"yomigana": "らべんだー",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "ラムネ",
+		"yomigana": "らむね",
+		"kyukana": "",
+		"bodai": [
+			"冷しラムネ"
+		]
+	},
+	{
+		"kigo": "蘭",
+		"yomigana": "らん",
+		"kyukana": "",
+		"bodai": [
+			"蘭の花",
+			"胡蝶蘭"
+		]
+	},
+	{
+		"kigo": "立夏",
+		"yomigana": "りっか",
+		"kyukana": "りつか",
+		"bodai": [
+			"夏立つ",
+			"夏に入る",
+			"夏来る"
+		]
+	},
+	{
+		"kigo": "竜舌蘭",
+		"yomigana": "りゅうぜつらん",
+		"kyukana": "龍舌蘭",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "緑蔭",
+		"yomigana": "りょくいん",
+		"kyukana": "",
+		"bodai": [
+			"翠蔭（すいいん）"
+		]
+	},
+	{
+		"kigo": "緑夜",
+		"yomigana": "りょくや",
+		"kyukana": "",
+		"bodai": [
+			"緑の夜"
+		]
+	},
+	{
+		"kigo": "林間学校",
+		"yomigana": "りんかんがっこう",
+		"kyukana": "りんかんがくかう",
+		"bodai": [
+			"林間学園",
+			"臨海学園"
+		]
+	},
+	{
+		"kigo": "縷紅草",
+		"yomigana": "るこうそう",
+		"kyukana": "るこうさう",
+		"bodai": [
+			"るこう"
+		]
+	},
+	{
+		"kigo": "冷房",
+		"yomigana": "れいぼう",
+		"kyukana": "れいばう",
+		"bodai": [
+			"ルームクーラー"
+		]
+	},
+	{
+		"kigo": "老鶯",
+		"yomigana": "ろうおう",
+		"kyukana": "らうあう",
+		"bodai": [
+			"老鶯",
+			"夏鶯",
+			"乱鶯",
+			"残鶯"
+		]
+	},
+	{
+		"kigo": "六月",
+		"yomigana": "ろくがつ",
+		"kyukana": "ろくぐわつ",
+		"bodai": [
+			"六月尽"
+		]
+	},
+	{
+		"kigo": "露台",
+		"yomigana": "ろだい",
+		"kyukana": "",
+		"bodai": [
+			"バルコニー",
+			"バルコン",
+			"ベランダ"
+		]
+	},
+	{
+		"kigo": "若楓",
+		"yomigana": "わかかえで",
+		"kyukana": "かかかへで",
+		"bodai": [
+			"楓若葉",
+			"青楓"
+		]
+	},
+	{
+		"kigo": "若竹",
+		"yomigana": "わかたけ",
+		"kyukana": "",
+		"bodai": [
+			"今年竹",
+			"竹の若葉"
+		]
+	},
+	{
+		"kigo": "若葉",
+		"yomigana": "わかば",
+		"kyukana": "",
+		"bodai": [
+			"若葉風",
+			"若葉雨",
+			"若葉寒"
+		]
+	},
+	{
+		"kigo": "病葉",
+		"yomigana": "わくらば",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "山葵の花",
+		"yomigana": "わさびのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "棉の花",
+		"yomigana": "わたのはな",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	}
+]

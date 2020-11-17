@@ -1,0 +1,2087 @@
+[
+	{
+		"kigo": "小豆粥",
+		"yomigana": "あづきがゆ",
+		"kyukana": "",
+		"bodai": [
+			"十五日粥",
+			"望の粥"
+		]
+	},
+	{
+		"kigo": "伊勢海老",
+		"yomigana": "いせえび",
+		"kyukana": "",
+		"bodai": [
+			"鎌倉海老"
+		]
+	},
+	{
+		"kigo": "五日",
+		"yomigana": "いつか",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "寝積む",
+		"yomigana": "いねつむ",
+		"kyukana": "",
+		"bodai": [
+			"稲積む",
+			"寝挙る"
+		]
+	},
+	{
+		"kigo": "鷽替",
+		"yomigana": "うそかえ",
+		"kyukana": "うそかへ",
+		"bodai": [
+			"鬼燻",
+			"鬼すべ"
+		]
+	},
+	{
+		"kigo": "謡初",
+		"yomigana": "うたいぞめ",
+		"kyukana": "うたひぞめ",
+		"bodai": [
+			"初謡"
+		]
+	},
+	{
+		"kigo": "歌会始",
+		"yomigana": "うたかいはじめ",
+		"kyukana": "",
+		"bodai": [
+			"歌御会始"
+		]
+	},
+	{
+		"kigo": "馬騎初",
+		"yomigana": "うまのりぞめ",
+		"kyukana": "",
+		"bodai": [
+			"騎馬始",
+			"馬場始",
+			"初騎"
+		]
+	},
+	{
+		"kigo": "恵方詣",
+		"yomigana": "えほうまいり",
+		"kyukana": "ゑはうまゐり",
+		"bodai": [
+			"恵方",
+			"吉方",
+			"明きの方",
+			"恵方道"
+		]
+	},
+	{
+		"kigo": "会陽",
+		"yomigana": "えよう",
+		"kyukana": "ゑやう",
+		"bodai": [
+			"西大寺参",
+			"神木",
+			"裸押し",
+			"修正会"
+		]
+	},
+	{
+		"kigo": "えんぶり",
+		"yomigana": "えんぶり",
+		"kyukana": "",
+		"bodai": [
+			"えぶり",
+			"ながえんぶり",
+			"御前えんぶり"
+		]
+	},
+	{
+		"kigo": "大服",
+		"yomigana": "おおぶく",
+		"kyukana": "おほぶく",
+		"bodai": [
+			"大福",
+			"福茶",
+			"大福茶"
+		]
+	},
+	{
+		"kigo": "御行",
+		"yomigana": "おぎょう",
+		"kyukana": "おぎやう",
+		"bodai": [
+			"御形",
+			"五形"
+		]
+	},
+	{
+		"kigo": "白朮詣",
+		"yomigana": "おけらまいり",
+		"kyukana": "をけらまゐり",
+		"bodai": [
+			"白朮祭",
+			"白朮火",
+			"白朮縄",
+			"火縄売",
+			"祇園削掛の神事"
+		]
+	},
+	{
+		"kigo": "御降り",
+		"yomigana": "おさがり",
+		"kyukana": "",
+		"bodai": [
+			"富正月"
+		]
+	},
+	{
+		"kigo": "鬼打木",
+		"yomigana": "おにうちぎ",
+		"kyukana": "",
+		"bodai": [
+			"鬼木"
+		]
+	},
+	{
+		"kigo": "女正月",
+		"yomigana": "おんなしょがつ",
+		"kyukana": "をんなしやうぐあつ",
+		"bodai": [
+			"女正月"
+		]
+	},
+	{
+		"kigo": "買初",
+		"yomigana": "かいぞめ",
+		"kyukana": "かひぞめ",
+		"bodai": [
+			"初買"
+		]
+	},
+	{
+		"kigo": "傀儡師",
+		"yomigana": "かいらいし",
+		"kyukana": "くわいらいし",
+		"bodai": [
+			"傀儡",
+			"夷廻し",
+			"木傀廻し"
+		]
+	},
+	{
+		"kigo": "鏡開",
+		"yomigana": "かがみびらき",
+		"kyukana": "",
+		"bodai": [
+			"鏡割"
+		]
+	},
+	{
+		"kigo": "鏡餅",
+		"yomigana": "かがみもち",
+		"kyukana": "",
+		"bodai": [
+			"御鏡",
+			"飾餅",
+			"具足餅",
+			"鎧餅"
+		]
+	},
+	{
+		"kigo": "書初",
+		"yomigana": "かきぞめ",
+		"kyukana": "",
+		"bodai": [
+			"筆始",
+			"試筆",
+			"吉書"
+		]
+	},
+	{
+		"kigo": "飾",
+		"yomigana": "かざり",
+		"kyukana": "",
+		"bodai": [
+			"お飾",
+			"輪飾"
+		]
+	},
+	{
+		"kigo": "飾臼",
+		"yomigana": "かざりうす",
+		"kyukana": "",
+		"bodai": [
+			"臼飾る"
+		]
+	},
+	{
+		"kigo": "飾海老",
+		"yomigana": "かざりえび",
+		"kyukana": "",
+		"bodai": [
+			"海老飾る"
+		]
+	},
+	{
+		"kigo": "飾納",
+		"yomigana": "かざりおさめ",
+		"kyukana": "かざりをさめ",
+		"bodai": [
+			"飾取る",
+			"注連取る"
+		]
+	},
+	{
+		"kigo": "飾米",
+		"yomigana": "かざりこめ",
+		"kyukana": "",
+		"bodai": [
+			"米飾る"
+		]
+	},
+	{
+		"kigo": "数の子",
+		"yomigana": "かずのこ",
+		"kyukana": "",
+		"bodai": [
+			"かどのこ"
+		]
+	},
+	{
+		"kigo": "門松",
+		"yomigana": "かどまつ",
+		"kyukana": "",
+		"bodai": [
+			"松飾",
+			"飾松",
+			"竹飾",
+			"飾竹"
+		]
+	},
+	{
+		"kigo": "かまくら",
+		"yomigana": "かまくら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "粥杖",
+		"yomigana": "かゆづえ",
+		"kyukana": "",
+		"bodai": [
+			"粥の木",
+			"祝棒",
+			"粥柱"
+		]
+	},
+	{
+		"kigo": "歌留多",
+		"yomigana": "かるた",
+		"kyukana": "",
+		"bodai": [
+			"骨牌",
+			"歌がるた",
+			"花がるた",
+			"いろは歌留多",
+			"歌留多会"
+		]
+	},
+	{
+		"kigo": "賀状",
+		"yomigana": "がじょう",
+		"kyukana": "がじやう",
+		"bodai": [
+			"年賀状",
+			"年始状"
+		]
+	},
+	{
+		"kigo": "元日",
+		"yomigana": "がんじつ",
+		"kyukana": "ぐわんじつ",
+		"bodai": [
+			"お元日",
+			"日の始め",
+			"鶏日"
+		]
+	},
+	{
+		"kigo": "元朝",
+		"yomigana": "がんちょう",
+		"kyukana": "ぐわんてう",
+		"bodai": [
+			"元旦",
+			"大旦",
+			"鶏旦",
+			"歳旦"
+		]
+	},
+	{
+		"kigo": "着衣始",
+		"yomigana": "きそはじめ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "切山椒",
+		"yomigana": "きりざんしょう",
+		"kyukana": "きりざんせう",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "御慶",
+		"yomigana": "ぎょけい",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "喰積",
+		"yomigana": "くいつみ",
+		"kyukana": "くひつみ",
+		"bodai": [
+			"重詰",
+			"重詰料理",
+			"組重",
+			"お節料理"
+		]
+	},
+	{
+		"kigo": "国栖奏",
+		"yomigana": "くずそう",
+		"kyukana": "",
+		"bodai": [
+			"国栖舞",
+			"国栖笛",
+			"国栖歌",
+			"国栖人",
+			"国栖翁"
+		]
+	},
+	{
+		"kigo": "蔵開",
+		"yomigana": "くらびらき",
+		"kyukana": "",
+		"bodai": [
+			"御蔵開"
+		]
+	},
+	{
+		"kigo": "鍬始",
+		"yomigana": "くわはじめ",
+		"kyukana": "くははじめ",
+		"bodai": [
+			"鋤始",
+			"一鍬",
+			"鍬入れ",
+			"初田打"
+		]
+	},
+	{
+		"kigo": "稽古始",
+		"yomigana": "けいこはじめ",
+		"kyukana": "",
+		"bodai": [
+			"初稽古"
+		]
+	},
+	{
+		"kigo": "講書始",
+		"yomigana": "こうしょはじめ",
+		"kyukana": "かうしょはじめ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "小正月",
+		"yomigana": "こしょうがつ",
+		"kyukana": "こしやうぐわつ",
+		"bodai": [
+			"十五日正月",
+			"花正月",
+			"望正月"
+		]
+	},
+	{
+		"kigo": "去年",
+		"yomigana": "こぞ",
+		"kyukana": "",
+		"bodai": [
+			"去年",
+			"古年",
+			"旧年",
+			"初昔",
+			"宵の年"
+		]
+	},
+	{
+		"kigo": "去年今年",
+		"yomigana": "こぞことし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "今年",
+		"yomigana": "ことし",
+		"kyukana": "",
+		"bodai": [
+			"今年",
+			"当年",
+			"若き年"
+		]
+	},
+	{
+		"kigo": "独楽",
+		"yomigana": "こま",
+		"kyukana": "",
+		"bodai": [
+			"独楽廻し",
+			"独楽遊び",
+			"独楽打つ"
+		]
+	},
+	{
+		"kigo": "小松引",
+		"yomigana": "こまつひき",
+		"kyukana": "",
+		"bodai": [
+			"初子の日",
+			"子の日の遊び"
+		]
+	},
+	{
+		"kigo": "御用始",
+		"yomigana": "ごようはじめ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "幸木",
+		"yomigana": "さいわいぎ",
+		"kyukana": "さいはひぎ",
+		"bodai": [
+			"幸木"
+		]
+	},
+	{
+		"kigo": "左義長",
+		"yomigana": "さぎちょう",
+		"kyukana": "さぎちやう",
+		"bodai": [
+			"三毬杖",
+			"どんど",
+			"とんど",
+			"どんど焚く",
+			"飾焚く",
+			"注連焚く",
+			"吉書揚"
+		]
+	},
+	{
+		"kigo": "猿廻し",
+		"yomigana": "さるまわし",
+		"kyukana": "さるまはし",
+		"bodai": [
+			"猿曳",
+			"猿使ひ"
+		]
+	},
+	{
+		"kigo": "三が日",
+		"yomigana": "さんがにち",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "仕事始",
+		"yomigana": "しごとはじめ",
+		"kyukana": "",
+		"bodai": [
+			"事務始",
+			"初仕事"
+		]
+	},
+	{
+		"kigo": "獅子舞",
+		"yomigana": "ししまい",
+		"kyukana": "ししまひ",
+		"bodai": [
+			"太神楽",
+			"竃祓ひ",
+			"獅子頭"
+		]
+	},
+	{
+		"kigo": "歯朶",
+		"yomigana": "しだ",
+		"kyukana": "",
+		"bodai": [
+			"裏白",
+			"山草"
+		]
+	},
+	{
+		"kigo": "七福神詣",
+		"yomigana": "しちふくじんまいり",
+		"kyukana": "",
+		"bodai": [
+			"七福詣",
+			"福神詣",
+			"福神巡り",
+			"福詣"
+		]
+	},
+	{
+		"kigo": "四方拝",
+		"yomigana": "しほうはい",
+		"kyukana": "しはうはい",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "注連飾",
+		"yomigana": "しめかざり",
+		"kyukana": "",
+		"bodai": [
+			"注連縄",
+			"七五三縄",
+			"年縄",
+			"牛蒡注連"
+		]
+	},
+	{
+		"kigo": "注連貰",
+		"yomigana": "しめもらい",
+		"kyukana": "しめもらひ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "淑気",
+		"yomigana": "しゅくき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "正月",
+		"yomigana": "しょうがつ",
+		"kyukana": "しやうぐわつ",
+		"bodai": [
+			"お正月",
+			"祝月",
+			"元月"
+		]
+	},
+	{
+		"kigo": "正月の凧",
+		"yomigana": "しょうがつのたこ",
+		"kyukana": "しやうぐあつのたこ",
+		"bodai": [
+			"凧揚",
+			"紙鳶"
+		]
+	},
+	{
+		"kigo": "新年",
+		"yomigana": "しんねん",
+		"kyukana": "",
+		"bodai": [
+			"年新た",
+			"新玉",
+			"年始",
+			"年立つ",
+			"年明く",
+			"年改まる",
+			"年来る",
+			"年迎ふ"
+		]
+	},
+	{
+		"kigo": "新年会",
+		"yomigana": "しんねんかい",
+		"kyukana": "しんねんくわい",
+		"bodai": [
+			"新年宴会"
+		]
+	},
+	{
+		"kigo": "十六むさし",
+		"yomigana": "じゅうろくむさし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "上元の日",
+		"yomigana": "じょうげんのひ",
+		"kyukana": "じやうげんのひ",
+		"bodai": [
+			"上元",
+			"上元会",
+			"上元祭",
+			"元宵節"
+		]
+	},
+	{
+		"kigo": "人日",
+		"yomigana": "じんじつ",
+		"kyukana": "",
+		"bodai": [
+			"人の日",
+			"霊辰",
+			"人勝節",
+			"元七"
+		]
+	},
+	{
+		"kigo": "双六",
+		"yomigana": "すごろく",
+		"kyukana": "",
+		"bodai": [
+			"盤双六",
+			"絵双六"
+		]
+	},
+	{
+		"kigo": "成人の日",
+		"yomigana": "せいじんのひ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "雑煮",
+		"yomigana": "ぞうに",
+		"kyukana": "ざふに",
+		"bodai": [
+			"雑煮祝ふ",
+			"雑煮餅",
+			"雑煮椀"
+		]
+	},
+	{
+		"kigo": "田遊び",
+		"yomigana": "たあそび",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "宝船",
+		"yomigana": "たからぶね",
+		"kyukana": "",
+		"bodai": [
+			"宝船敷く"
+		]
+	},
+	{
+		"kigo": "田作",
+		"yomigana": "たづくり",
+		"kyukana": "",
+		"bodai": [
+			"ごまめ",
+			"小殿原"
+		]
+	},
+	{
+		"kigo": "玉せせり",
+		"yomigana": "たませせり",
+		"kyukana": "",
+		"bodai": [
+			"玉せり",
+			"玉取祭",
+			"玉競祭"
+		]
+	},
+	{
+		"kigo": "橙飾る",
+		"yomigana": "だいだいかざる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "ちやつきらこ",
+		"yomigana": "ちやつきらこ",
+		"kyukana": "",
+		"bodai": [
+			"左義長",
+			"後祭"
+		]
+	},
+	{
+		"kigo": "朝賀",
+		"yomigana": "ちょうが",
+		"kyukana": "てうが",
+		"bodai": [
+			"朝賀",
+			"参賀",
+			"拝賀"
+		]
+	},
+	{
+		"kigo": "帳綴",
+		"yomigana": "ちょうとじ",
+		"kyukana": "ちやうとぢ",
+		"bodai": [
+			"帳書",
+			"帳始",
+			"帳祝"
+		]
+	},
+	{
+		"kigo": "草石蚕",
+		"yomigana": "ちよろぎ",
+		"kyukana": "",
+		"bodai": [
+			"ちょうろぎ",
+			"ちょうろく"
+		]
+	},
+	{
+		"kigo": "綱引",
+		"yomigana": "つなひき",
+		"kyukana": "",
+		"bodai": [
+			"綱曳"
+		]
+	},
+	{
+		"kigo": "手毬",
+		"yomigana": "てまり",
+		"kyukana": "",
+		"bodai": [
+			"手鞠",
+			"手毬つく",
+			"手毬唄",
+			"手毬子"
+		]
+	},
+	{
+		"kigo": "出初",
+		"yomigana": "でぞめ",
+		"kyukana": "",
+		"bodai": [
+			"出初式",
+			"消防出初式"
+		]
+	},
+	{
+		"kigo": "投扇興",
+		"yomigana": "とうせんきょう",
+		"kyukana": "",
+		"bodai": [
+			"投扇"
+		]
+	},
+	{
+		"kigo": "十日戎",
+		"yomigana": "とおかえびす",
+		"kyukana": "とをかえびす",
+		"bodai": [
+			"初戎",
+			"初恵比須",
+			"宵戎",
+			"戎祭",
+			"戎笹",
+			"福笹",
+			"残り福"
+		]
+	},
+	{
+		"kigo": "野老飾る",
+		"yomigana": "ところかざる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "年男",
+		"yomigana": "としおとこ",
+		"kyukana": "としをとこ",
+		"bodai": [
+			"若男",
+			"節男"
+		]
+	},
+	{
+		"kigo": "年木",
+		"yomigana": "としぎ",
+		"kyukana": "",
+		"bodai": [
+			"若木",
+			"節木",
+			"祝木"
+		]
+	},
+	{
+		"kigo": "年玉",
+		"yomigana": "としだま",
+		"kyukana": "",
+		"bodai": [
+			"お年玉"
+		]
+	},
+	{
+		"kigo": "歳徳神",
+		"yomigana": "としとくじん",
+		"kyukana": "",
+		"bodai": [
+			"年神",
+			"若年様",
+			"正月様"
+		]
+	},
+	{
+		"kigo": "屠蘇",
+		"yomigana": "とそ",
+		"kyukana": "",
+		"bodai": [
+			"屠蘇祝ふ",
+			"屠蘇酒",
+			"屠蘇袋"
+		]
+	},
+	{
+		"kigo": "鳥総松",
+		"yomigana": "とぶさまつ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "鳥追",
+		"yomigana": "とりおい",
+		"kyukana": "とりおひ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "泣初",
+		"yomigana": "なきぞめ",
+		"kyukana": "",
+		"bodai": [
+			"初泣"
+		]
+	},
+	{
+		"kigo": "薺",
+		"yomigana": "なづな",
+		"kyukana": "",
+		"bodai": [
+			"薺摘"
+		]
+	},
+	{
+		"kigo": "薺打",
+		"yomigana": "なづなうつ",
+		"kyukana": "",
+		"bodai": [
+			"七種打つ",
+			"七種はやす"
+		]
+	},
+	{
+		"kigo": "七種",
+		"yomigana": "ななくさ",
+		"kyukana": "",
+		"bodai": [
+			"七草"
+		]
+	},
+	{
+		"kigo": "七種粥",
+		"yomigana": "ななくさがゆ",
+		"kyukana": "",
+		"bodai": [
+			"七日粥",
+			"薺粥"
+		]
+	},
+	{
+		"kigo": "七草爪",
+		"yomigana": "ななくさづめ",
+		"kyukana": "",
+		"bodai": [
+			"薺爪",
+			"七日爪"
+		]
+	},
+	{
+		"kigo": "七日",
+		"yomigana": "なぬか",
+		"kyukana": "",
+		"bodai": [
+			"七日"
+		]
+	},
+	{
+		"kigo": "七日正月",
+		"yomigana": "なぬかしょうがつ",
+		"kyukana": "なぬかしやうぐわつ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "なまはげ",
+		"yomigana": "なまはげ",
+		"kyukana": "",
+		"bodai": [
+			"なもみ剥ぎ",
+			"あまみはぎ"
+		]
+	},
+	{
+		"kigo": "成木責",
+		"yomigana": "なりきぜめ",
+		"kyukana": "",
+		"bodai": [
+			"木責",
+			"果樹責",
+			"木を囃す"
+		]
+	},
+	{
+		"kigo": "新野の雪祭",
+		"yomigana": "にいののゆきまつり",
+		"kyukana": "",
+		"bodai": [
+			"雪祭",
+			"田楽祭"
+		]
+	},
+	{
+		"kigo": "繞道祭",
+		"yomigana": "にょうどうさい",
+		"kyukana": "ねうだうさい",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "縫初",
+		"yomigana": "ぬひぞめ",
+		"kyukana": "ぬいぞめ",
+		"bodai": [
+			"縫始",
+			"初針",
+			"針起し"
+		]
+	},
+	{
+		"kigo": "寝正月",
+		"yomigana": "ねしょうがつ",
+		"kyukana": "ねしやうぐわつ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "子日草",
+		"yomigana": "ねのひぐさ",
+		"kyukana": "",
+		"bodai": [
+			"姫小松",
+			"茶筅松",
+			"子の日の松"
+		]
+	},
+	{
+		"kigo": "年賀",
+		"yomigana": "ねんが",
+		"kyukana": "",
+		"bodai": [
+			"年始",
+			"年礼",
+			"廻礼",
+			"年始廻り",
+			"賀詞"
+		]
+	},
+	{
+		"kigo": "年酒",
+		"yomigana": "ねんしゅ",
+		"kyukana": "",
+		"bodai": [
+			"年酒",
+			"年始酒"
+		]
+	},
+	{
+		"kigo": "能始",
+		"yomigana": "のうはじめ",
+		"kyukana": "",
+		"bodai": [
+			"初能"
+		]
+	},
+	{
+		"kigo": "乗初",
+		"yomigana": "のりぞめ",
+		"kyukana": "",
+		"bodai": [
+			"初乗",
+			"初電車",
+			"初車",
+			"船乗初",
+			"初飛行"
+		]
+	},
+	{
+		"kigo": "歯固",
+		"yomigana": "はがため",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "掃初",
+		"yomigana": "はきぞめ",
+		"kyukana": "",
+		"bodai": [
+			"初帚",
+			"初掃除"
+		]
+	},
+	{
+		"kigo": "箱根駅伝",
+		"yomigana": "はこねえきでん",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "羽子板",
+		"yomigana": "はごいた",
+		"kyukana": "",
+		"bodai": [
+			"胡鬼板",
+			"はご"
+		]
+	},
+	{
+		"kigo": "機始",
+		"yomigana": "はたはじめ",
+		"kyukana": "",
+		"bodai": [
+			"織初",
+			"初機"
+		]
+	},
+	{
+		"kigo": "初茜",
+		"yomigana": "はつあかね",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初明り",
+		"yomigana": "はつあかり",
+		"kyukana": "",
+		"bodai": [
+			"初夜明"
+		]
+	},
+	{
+		"kigo": "初商",
+		"yomigana": "はつあきない",
+		"kyukana": "はつあきなひ",
+		"bodai": [
+			"商始",
+			"売初"
+		]
+	},
+	{
+		"kigo": "初浅間",
+		"yomigana": "はつあさま",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初伊勢",
+		"yomigana": "はついせ",
+		"kyukana": "",
+		"bodai": [
+			"初参宮"
+		]
+	},
+	{
+		"kigo": "初市",
+		"yomigana": "はついち",
+		"kyukana": "",
+		"bodai": [
+			"市始",
+			"初市場",
+			"初立会",
+			"初相場",
+			"初糶"
+		]
+	},
+	{
+		"kigo": "初卯",
+		"yomigana": "はつう",
+		"kyukana": "",
+		"bodai": [
+			"初卯詣",
+			"卯の札",
+			"卯杖",
+			"卯槌"
+		]
+	},
+	{
+		"kigo": "初鴬",
+		"yomigana": "はつうぐいす",
+		"kyukana": "はつうぐひす",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初閻魔",
+		"yomigana": "はつえんま",
+		"kyukana": "",
+		"bodai": [
+			"閻魔詣"
+		]
+	},
+	{
+		"kigo": "初鏡",
+		"yomigana": "はつかがみ",
+		"kyukana": "",
+		"bodai": [
+			"初化粧"
+		]
+	},
+	{
+		"kigo": "初篝",
+		"yomigana": "はつかがり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初神楽",
+		"yomigana": "はつかぐら",
+		"kyukana": "",
+		"bodai": [
+			"神楽始"
+		]
+	},
+	{
+		"kigo": "二十日正月",
+		"yomigana": "はつかしょうがつ",
+		"kyukana": "はつかしやうがつ",
+		"bodai": [
+			"団子正月",
+			"二十日団子",
+			"骨正月",
+			"頭正月"
+		]
+	},
+	{
+		"kigo": "初風",
+		"yomigana": "はつかぜ",
+		"kyukana": "",
+		"bodai": [
+			"春の初風",
+			"初松籟"
+		]
+	},
+	{
+		"kigo": "初竃",
+		"yomigana": "はつかまど",
+		"kyukana": "",
+		"bodai": [
+			"焚初"
+		]
+	},
+	{
+		"kigo": "初観音",
+		"yomigana": "はつかんのん",
+		"kyukana": "はつくわんおん",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初霞",
+		"yomigana": "はつがすみ",
+		"kyukana": "",
+		"bodai": [
+			"新霞"
+		]
+	},
+	{
+		"kigo": "初釜",
+		"yomigana": "はつがま",
+		"kyukana": "",
+		"bodai": [
+			"初茶湯",
+			"初点前"
+		]
+	},
+	{
+		"kigo": "初髪",
+		"yomigana": "はつがみ",
+		"kyukana": "",
+		"bodai": [
+			"初結",
+			"結ひ初",
+			"梳初"
+		]
+	},
+	{
+		"kigo": "初鴉",
+		"yomigana": "はつがらす",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初句会",
+		"yomigana": "はつくかい",
+		"kyukana": "はつくくわい",
+		"bodai": [
+			"新年句会"
+		]
+	},
+	{
+		"kigo": "初景色",
+		"yomigana": "はつげしき",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初声",
+		"yomigana": "はつこえ",
+		"kyukana": "はつこゑ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初金毘羅",
+		"yomigana": "はつこんぴら",
+		"kyukana": "",
+		"bodai": [
+			"初金刀比羅",
+			"初十日"
+		]
+	},
+	{
+		"kigo": "初東風",
+		"yomigana": "はつごち",
+		"kyukana": "",
+		"bodai": [
+			"節東風"
+		]
+	},
+	{
+		"kigo": "初暦",
+		"yomigana": "はつごよみ",
+		"kyukana": "",
+		"bodai": [
+			"新暦"
+		]
+	},
+	{
+		"kigo": "初勤行",
+		"yomigana": "はつごんぎょう",
+		"kyukana": "はつごんぎゃう",
+		"bodai": [
+			"初鐘",
+			"初読経",
+			"初燈明",
+			"初燈"
+		]
+	},
+	{
+		"kigo": "初東雲",
+		"yomigana": "はつしののめ",
+		"kyukana": "",
+		"bodai": [
+			"初曙"
+		]
+	},
+	{
+		"kigo": "初芝居",
+		"yomigana": "はつしばい",
+		"kyukana": "はつしばゐ",
+		"bodai": [
+			"初春狂言",
+			"春芝居",
+			"初曽我",
+			"二の替"
+		]
+	},
+	{
+		"kigo": "初写真",
+		"yomigana": "はつしゃしん",
+		"kyukana": "",
+		"bodai": [
+			"初写し"
+		]
+	},
+	{
+		"kigo": "初雀",
+		"yomigana": "はつすずめ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初硯",
+		"yomigana": "はつすずり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初刷",
+		"yomigana": "はつずり",
+		"kyukana": "",
+		"bodai": [
+			"刷初",
+			"初新聞"
+		]
+	},
+	{
+		"kigo": "初染",
+		"yomigana": "はつぞめ",
+		"kyukana": "",
+		"bodai": [
+			"染始"
+		]
+	},
+	{
+		"kigo": "初空",
+		"yomigana": "はつぞら",
+		"kyukana": "",
+		"bodai": [
+			"初御空"
+		]
+	},
+	{
+		"kigo": "初旅",
+		"yomigana": "はつたび",
+		"kyukana": "",
+		"bodai": [
+			"旅始",
+			"旅行始"
+		]
+	},
+	{
+		"kigo": "初大師",
+		"yomigana": "はつだいし",
+		"kyukana": "",
+		"bodai": [
+			"初弘法"
+		]
+	},
+	{
+		"kigo": "初便り",
+		"yomigana": "はつだより",
+		"kyukana": "",
+		"bodai": [
+			"初郵便"
+		]
+	},
+	{
+		"kigo": "初筑波",
+		"yomigana": "はつつくば",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初鼓",
+		"yomigana": "はつつづみ",
+		"kyukana": "",
+		"bodai": [
+			"鼓始"
+		]
+	},
+	{
+		"kigo": "初手水",
+		"yomigana": "はつてうづ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初天神",
+		"yomigana": "はつてんじん",
+		"kyukana": "",
+		"bodai": [
+			"宵天神",
+			"残り天神",
+			"天神花",
+			"天神旗"
+		]
+	},
+	{
+		"kigo": "初電話",
+		"yomigana": "はつでんわ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初寅",
+		"yomigana": "はつとら",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初鶏",
+		"yomigana": "はつどり",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初凪",
+		"yomigana": "はつなぎ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初荷",
+		"yomigana": "はつに",
+		"kyukana": "",
+		"bodai": [
+			"初荷舟",
+			"初荷馬",
+			"飾馬"
+		]
+	},
+	{
+		"kigo": "初日記",
+		"yomigana": "はつにっき",
+		"kyukana": "",
+		"bodai": [
+			"日記始"
+		]
+	},
+	{
+		"kigo": "初音売",
+		"yomigana": "はつねうり",
+		"kyukana": "",
+		"bodai": [
+			"初音笛"
+		]
+	},
+	{
+		"kigo": "初鳩",
+		"yomigana": "はつはと",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初春",
+		"yomigana": "はつはる",
+		"kyukana": "",
+		"bodai": [
+			"新春",
+			"明の春",
+			"今朝の春",
+			"千代の春"
+		]
+	},
+	{
+		"kigo": "初場所",
+		"yomigana": "はつばしょ",
+		"kyukana": "",
+		"bodai": [
+			"一月場所",
+			"正月場所"
+		]
+	},
+	{
+		"kigo": "初晴",
+		"yomigana": "はつばれ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初日",
+		"yomigana": "はつひ",
+		"kyukana": "",
+		"bodai": [
+			"初陽",
+			"初旭",
+			"初日の出",
+			"初日影"
+		]
+	},
+	{
+		"kigo": "初比叡",
+		"yomigana": "はつひえい",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初富士",
+		"yomigana": "はつふじ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初不動",
+		"yomigana": "はつふどう",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初弁天",
+		"yomigana": "はつべんてん",
+		"kyukana": "",
+		"bodai": [
+			"初巳"
+		]
+	},
+	{
+		"kigo": "初弥撒",
+		"yomigana": "はつみさ",
+		"kyukana": "",
+		"bodai": [
+			"初ミサ"
+		]
+	},
+	{
+		"kigo": "初詣",
+		"yomigana": "はつもうで",
+		"kyukana": "はつまうで",
+		"bodai": [
+			"初参",
+			"初社",
+			"初御籤"
+		]
+	},
+	{
+		"kigo": "初薬師",
+		"yomigana": "はつやくし",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "初湯",
+		"yomigana": "はつゆ",
+		"kyukana": "",
+		"bodai": [
+			"初風呂",
+			"湯殿始"
+		]
+	},
+	{
+		"kigo": "初夢",
+		"yomigana": "はつゆめ",
+		"kyukana": "",
+		"bodai": [
+			"貘枕",
+			"初寝覚"
+		]
+	},
+	{
+		"kigo": "初漁",
+		"yomigana": "はつりょう",
+		"kyukana": "はつれふ",
+		"bodai": [
+			"漁始",
+			"初網"
+		]
+	},
+	{
+		"kigo": "花びら餅",
+		"yomigana": "はなびらもち",
+		"kyukana": "",
+		"bodai": [
+			"菱葩餅、菱はなびら"
+		]
+	},
+	{
+		"kigo": "羽子つき",
+		"yomigana": "はねつき",
+		"kyukana": "",
+		"bodai": [
+			"羽子",
+			"追羽子",
+			"揚羽子",
+			"遣羽子"
+		]
+	},
+	{
+		"kigo": "破魔弓",
+		"yomigana": "はまゆみ",
+		"kyukana": "",
+		"bodai": [
+			"破魔矢"
+		]
+	},
+	{
+		"kigo": "春着",
+		"yomigana": "はるぎ",
+		"kyukana": "",
+		"bodai": [
+			"正月小袖",
+			"春襲"
+		]
+	},
+	{
+		"kigo": "春駒",
+		"yomigana": "はるこま",
+		"kyukana": "",
+		"bodai": [
+			"春駒舞",
+			"春駒万歳"
+		]
+	},
+	{
+		"kigo": "弾初",
+		"yomigana": "ひきぞめ",
+		"kyukana": "",
+		"bodai": [
+			"初弾",
+			"琴始"
+		]
+	},
+	{
+		"kigo": "ひめ始",
+		"yomigana": "ひめはじめ",
+		"kyukana": "",
+		"bodai": [
+			"姫始",
+			"密事始（ひめはじめ）"
+		]
+	},
+	{
+		"kigo": "吹初",
+		"yomigana": "ふきぞめ",
+		"kyukana": "",
+		"bodai": [
+			"籟初",
+			"吹始"
+		]
+	},
+	{
+		"kigo": "福寿草",
+		"yomigana": "ふくじゅそう",
+		"kyukana": "ふくじゅさう",
+		"bodai": [
+			"元日草"
+		]
+	},
+	{
+		"kigo": "福達磨",
+		"yomigana": "ふくだるま",
+		"kyukana": "",
+		"bodai": [
+			"達磨市"
+		]
+	},
+	{
+		"kigo": "福引",
+		"yomigana": "ふくびき",
+		"kyukana": "",
+		"bodai": [
+			"宝引"
+		]
+	},
+	{
+		"kigo": "福袋",
+		"yomigana": "ふくぶくろ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "福沸",
+		"yomigana": "ふくわかし",
+		"kyukana": "",
+		"bodai": [
+			"福鍋"
+		]
+	},
+	{
+		"kigo": "福藁",
+		"yomigana": "ふくわら",
+		"kyukana": "",
+		"bodai": [
+			"福藁敷く",
+			"ふくさ藁"
+		]
+	},
+	{
+		"kigo": "福笑ひ",
+		"yomigana": "ふくわらい",
+		"kyukana": "ふくわらひ",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "二日",
+		"yomigana": "ふつか",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "太箸",
+		"yomigana": "ふとばし",
+		"kyukana": "",
+		"bodai": [
+			"祝箸",
+			"柳箸",
+			"箸紙",
+			"雑煮箸"
+		]
+	},
+	{
+		"kigo": "蓬莱",
+		"yomigana": "ほうらい",
+		"kyukana": "",
+		"bodai": [
+			"掛蓬莱",
+			"蓬莱飾"
+		]
+	},
+	{
+		"kigo": "宝恵篭",
+		"yomigana": "ほえかご",
+		"kyukana": "ほゑかご",
+		"bodai": [
+			"宝恵駕",
+			"戎篭"
+		]
+	},
+	{
+		"kigo": "仏の座",
+		"yomigana": "ほとけのざ",
+		"kyukana": "",
+		"bodai": [
+			"田平子"
+		]
+	},
+	{
+		"kigo": "穂俵飾る",
+		"yomigana": "ほんだはらかざる",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "ぼんでん",
+		"yomigana": "ぼんでん",
+		"kyukana": "",
+		"bodai": [
+			"梵天"
+		]
+	},
+	{
+		"kigo": "ぽっぺん",
+		"yomigana": "ぽっぺん",
+		"kyukana": "",
+		"bodai": [
+			"ぽこんぽこん"
+		]
+	},
+	{
+		"kigo": "舞初",
+		"yomigana": "まいぞめ",
+		"kyukana": "まひぞめ",
+		"bodai": [
+			"仕舞始"
+		]
+	},
+	{
+		"kigo": "松納",
+		"yomigana": "まつおさめ",
+		"kyukana": "まつをさめ",
+		"bodai": [
+			"松取る",
+			"門松取る"
+		]
+	},
+	{
+		"kigo": "松過ぎ",
+		"yomigana": "まつすぎ",
+		"kyukana": "",
+		"bodai": [
+			"松明け",
+			"注連明"
+		]
+	},
+	{
+		"kigo": "松の内",
+		"yomigana": "まつのうち",
+		"kyukana": "",
+		"bodai": [
+			"松七日",
+			"注連の内"
+		]
+	},
+	{
+		"kigo": "俎始",
+		"yomigana": "まないたはじめ",
+		"kyukana": "",
+		"bodai": [
+			"包丁始"
+		]
+	},
+	{
+		"kigo": "鞠始",
+		"yomigana": "まりはじめ",
+		"kyukana": "",
+		"bodai": [
+			"蹴鞠始"
+		]
+	},
+	{
+		"kigo": "万歳",
+		"yomigana": "まんざい",
+		"kyukana": "",
+		"bodai": [
+			"三河万歳",
+			"大和万歳"
+		]
+	},
+	{
+		"kigo": "三日",
+		"yomigana": "みっか",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "睦月",
+		"yomigana": "むつき",
+		"kyukana": "",
+		"bodai": [
+			"むつみ月",
+			"むつび月"
+		]
+	},
+	{
+		"kigo": "土竜打",
+		"yomigana": "もぐらうち",
+		"kyukana": "",
+		"bodai": [
+			"土竜追",
+			"海鼠曳"
+		]
+	},
+	{
+		"kigo": "餅花",
+		"yomigana": "もちばな",
+		"kyukana": "",
+		"bodai": [
+			"繭玉",
+			"稲穂",
+			"団子花"
+		]
+	},
+	{
+		"kigo": "薮入",
+		"yomigana": "やぶいり",
+		"kyukana": "",
+		"bodai": [
+			"里下り",
+			"宿下り"
+		]
+	},
+	{
+		"kigo": "山始",
+		"yomigana": "やまはじめ",
+		"kyukana": "",
+		"bodai": [
+			"初山",
+			"初山入り",
+			"山入り",
+			"斧始",
+			"手斧始",
+			"若山踏み",
+			"木伐り初"
+		]
+	},
+	{
+		"kigo": "楪",
+		"yomigana": "ゆづりは",
+		"kyukana": "",
+		"bodai": [
+			"弓弦葉",
+			"親子草"
+		]
+	},
+	{
+		"kigo": "弓始",
+		"yomigana": "ゆみはじめ",
+		"kyukana": "",
+		"bodai": [
+			"初弓",
+			"的始",
+			"弓矢始",
+			"射初"
+		]
+	},
+	{
+		"kigo": "四日",
+		"yomigana": "よっか",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "読初",
+		"yomigana": "よみぞめ",
+		"kyukana": "",
+		"bodai": [
+			"読書始"
+		]
+	},
+	{
+		"kigo": "嫁が君",
+		"yomigana": "よめがきみ",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "礼受",
+		"yomigana": "れいうけ",
+		"kyukana": "",
+		"bodai": [
+			"礼者受",
+			"名刺受"
+		]
+	},
+	{
+		"kigo": "礼者",
+		"yomigana": "れいじゃ",
+		"kyukana": "",
+		"bodai": [
+			"門礼",
+			"門礼者",
+			"賀客",
+			"年賀客",
+			"女礼者"
+		]
+	},
+	{
+		"kigo": "若菜",
+		"yomigana": "わかな",
+		"kyukana": "",
+		"bodai": [
+			"若菜摘",
+			"粥草",
+			"七草粥"
+		]
+	},
+	{
+		"kigo": "若菜野",
+		"yomigana": "わかなの",
+		"kyukana": "",
+		"bodai": [
+			""
+		]
+	},
+	{
+		"kigo": "若水",
+		"yomigana": "わかみず",
+		"kyukana": "わかみづ",
+		"bodai": [
+			"初水",
+			"福水",
+			"若井",
+			"井華水",
+			"若潮",
+			"若潮迎へ"
+		]
+	},
+	{
+		"kigo": "笑初",
+		"yomigana": "わらいぞめ",
+		"kyukana": "わらひぞめ",
+		"bodai": [
+			"初笑"
+		]
+	},
+	{
+		"kigo": "藁盒子",
+		"yomigana": "わらごうし",
+		"kyukana": "わらがふし",
+		"bodai": [
+			"幸篭",
+			"ヤス"
+		]
+	}
+]
