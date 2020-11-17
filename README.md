@@ -79,6 +79,7 @@ $ npm run start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
+※ソースコードのライセンスは著作者に帰属しますが、季語データのライセンスは現代俳句協会に帰属します。ご利用に置かれましては十分ご注意の上、権利関係の把握のうえでお願いいたします。
 
 Made with :heart: by <a href="https://github.com/AsazuTaiga" target="_blank">AsazuTaiga</a>
 
