@@ -28,19 +28,25 @@
 <hr> -->
 
 <p align="center">
+  <a href="#warning-attention">Attention</a> &#xa0; | &#xa0; 
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/AsazuTaiga" target="_blank">Author</a>
+  <a href="https://github.com/AsazuTaiga" target="_blank">Author</a>１
 </p>
 
 <br>
 
+## :warning: Attention ##
+
+本スクリプトを使用して得たデータは、resultJson配下に格納されています。お手元で実行いただく必要はございません。
+スクレイピング対象ページの更新頻度はそれほど高くないので、定期実行等、サーバーに負荷をかける行為は謹んでいただけますようお願い申し上げます。
+
 ## :dart: About ##
 
-現代俳句協会が提供する[「現代俳句データベース」](http://www.haiku-data.jp/index.php)から季語データをスクレイピングしてみました。
+現代俳句協会IT部が提供する[「現代俳句データベース」](http://www.haiku-data.jp/index.php)から季語データをスクレイピングしてみました。
 
 ## :rocket: Technologies ##
 
@@ -79,7 +85,7 @@ $ npm run start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
-※ソースコードのライセンスは著作者に帰属しますが、季語データのライセンスは現代俳句協会に帰属します。ご利用に置かれましては十分ご注意の上、権利関係の把握のうえでお願いいたします。
+※ソースコードのライセンスは著作者に帰属しますが、季語データのライセンスは現代俳句協会に帰属します。
 
 Made with :heart: by <a href="https://github.com/AsazuTaiga" target="_blank">AsazuTaiga</a>
 
